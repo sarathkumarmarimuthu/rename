@@ -1,0 +1,424 @@
+﻿1
+00:00:00,100 --> 00:00:02,666
+Welcome to the Records Management simulation.
+
+2
+00:00:02,933 --> 00:00:05,099
+This short video will explain the different
+
+3
+00:00:05,100 --> 00:00:07,000
+sections and navigational buttons
+
+4
+00:00:07,000 --> 00:00:08,166
+in this simulation.
+
+5
+00:00:08,700 --> 00:00:12,266
+Each job also has specific directions and a video
+
+6
+00:00:12,266 --> 00:00:14,799
+walkthrough that will give you more details about
+
+7
+00:00:14,800 --> 00:00:16,200
+how to complete that job.
+
+8
+00:00:16,366 --> 00:00:18,599
+The How to Navigate records management video
+
+9
+00:00:18,600 --> 00:00:19,866
+that you are watching now,
+
+10
+00:00:20,100 --> 00:00:21,933
+describes the basic sections,
+
+11
+00:00:21,933 --> 00:00:24,599
+screens and buttons in this simulation.
+
+12
+00:00:24,666 --> 00:00:27,166
+The Overview of Auric Systems, Inc.
+
+13
+00:00:27,166 --> 00:00:28,632
+screen gives you background
+
+14
+00:00:28,633 --> 00:00:31,066
+information about the company in this simulation.
+
+15
+00:00:32,366 --> 00:00:34,532
+Depending on what job you are working in,
+
+16
+00:00:34,833 --> 00:00:35,999
+you will see either
+
+17
+00:00:36,000 --> 00:00:38,200
+“Overview of Jobs 1 through 4”
+
+18
+00:00:38,433 --> 00:00:41,166
+or “Overview of Jobs 5 through 13.”
+
+19
+00:00:41,766 --> 00:00:44,599
+The “Overview of Jobs 1 through 4” screen
+
+20
+00:00:44,600 --> 00:00:46,433
+gives you information about your role
+
+21
+00:00:46,433 --> 00:00:47,399
+in Auric Systems
+
+22
+00:00:47,400 --> 00:00:49,833
+and how to complete these first four jobs.
+
+23
+00:00:50,500 --> 00:00:53,333
+The Overview screen for Jobs 5 through 13
+
+24
+00:00:53,333 --> 00:00:55,133
+provides information about working with
+
+25
+00:00:55,133 --> 00:00:57,999
+correspondence in jobs 5 through 13.
+
+26
+00:00:58,266 --> 00:01:01,099
+Each job’s landing page has a Directions screen
+
+27
+00:01:01,100 --> 00:01:02,566
+specific to that job.
+
+28
+00:01:03,000 --> 00:01:04,866
+This screen gives you an overview of what
+
+29
+00:01:04,866 --> 00:01:06,666
+you will be doing in a specific job.
+
+30
+00:01:06,866 --> 00:01:09,232
+The video walkthrough for each job gives
+
+31
+00:01:09,233 --> 00:01:11,333
+detailed instructions on how to navigate
+
+32
+00:01:11,333 --> 00:01:12,099
+that job,
+
+33
+00:01:12,433 --> 00:01:13,666
+and how to complete the steps
+
+34
+00:01:13,666 --> 00:01:15,166
+in each task of that job.
+
+35
+00:01:15,400 --> 00:01:17,066
+After you have watched the video,
+
+36
+00:01:17,133 --> 00:01:18,833
+click the START JOB button.
+
+37
+00:01:19,233 --> 00:01:20,166
+For most jobs,
+
+38
+00:01:20,166 --> 00:01:21,299
+this will take you directly
+
+39
+00:01:21,300 --> 00:01:23,600
+to the main task screen for that job.
+
+40
+00:01:23,666 --> 00:01:25,932
+Some of the later jobs have more complicated
+
+41
+00:01:25,933 --> 00:01:26,799
+navigation,
+
+42
+00:01:27,066 --> 00:01:29,199
+with more than one main task screen
+
+43
+00:01:29,500 --> 00:01:31,566
+or with additional information provided
+
+44
+00:01:31,566 --> 00:01:33,732
+before you reach the main task screen.
+
+45
+00:01:34,166 --> 00:01:34,899
+For example,
+
+46
+00:01:35,100 --> 00:01:36,666
+this is the General Information
+
+47
+00:01:36,666 --> 00:01:37,899
+screen for Job 10.
+
+48
+00:01:38,766 --> 00:01:41,332
+Again, the Video Walkthrough for each job
+
+49
+00:01:41,333 --> 00:01:42,866
+will explain any navigation
+
+50
+00:01:42,866 --> 00:01:44,599
+that is specific to that job.
+
+51
+00:01:45,200 --> 00:01:47,100
+Clicking the Records Management logo
+
+52
+00:01:47,100 --> 00:01:48,900
+brings you back to the landing page
+
+53
+00:01:48,900 --> 00:01:50,233
+for the job you are working on.
+
+54
+00:01:50,666 --> 00:01:52,066
+When you start the job again,
+
+55
+00:01:52,233 --> 00:01:54,033
+you will return to where you left off.
+
+56
+00:01:55,200 --> 00:01:57,233
+Audio buttons allow you to play,
+
+57
+00:01:59,066 --> 00:01:59,666
+pause,
+
+58
+00:02:01,633 --> 00:02:04,066
+or replay the text on any screen.
+
+59
+00:02:05,600 --> 00:02:08,766
+On the main task screen, the audio buttons allow
+
+60
+00:02:08,766 --> 00:02:11,332
+you to play, pause, or replay the
+
+61
+00:02:11,333 --> 00:02:13,133
+instructions at the top of the screen.
+
+62
+00:02:13,833 --> 00:02:16,199
+The progress bar at the bottom of the main task
+
+63
+00:02:16,200 --> 00:02:19,300
+screen tracks how far along you are in the job.
+
+64
+00:02:19,300 --> 00:02:22,166
+Now let’s review the main tabs at the bottom of
+
+65
+00:02:22,166 --> 00:02:23,799
+the screen and what they mean.
+
+66
+00:02:23,900 --> 00:02:26,800
+The sitemap tab gives you a quick overall view
+
+67
+00:02:26,800 --> 00:02:28,600
+of the different components of the job.
+
+68
+00:02:28,966 --> 00:02:30,999
+The help tab provides basic guidance
+
+69
+00:02:31,000 --> 00:02:32,566
+on using the simulation.
+
+70
+00:02:34,033 --> 00:02:36,599
+The rules tab provides reference material to help
+
+71
+00:02:36,600 --> 00:02:38,066
+you complete the job,
+
+72
+00:02:38,300 --> 00:02:40,200
+including alphabetic filing Rules
+
+73
+00:02:40,200 --> 00:02:43,066
+1 through 10 and Cross-Referencing Rules.
+
+74
+00:02:43,933 --> 00:02:46,699
+The exit tab allows you to leave the simulation
+
+75
+00:02:46,700 --> 00:02:47,600
+at any time.
+
+76
+00:02:48,166 --> 00:02:48,999
+When you return,
+
+77
+00:02:49,333 --> 00:02:51,666
+the simulation will remember where you left off
+
+78
+00:02:51,733 --> 00:02:53,266
+and return you to your place.
+
+79
+00:02:53,700 --> 00:02:55,133
+Once you have completed a job,
+
+80
+00:02:55,300 --> 00:02:57,000
+you can submit your work for grading
+
+81
+00:02:57,000 --> 00:02:59,600
+by clicking the Finish and Submit button.
+
+82
+00:03:00,133 --> 00:03:02,633
+The Finish and Submit button is inactive
+
+83
+00:03:02,633 --> 00:03:05,233
+until you have filed all of the records in the job.
+
+84
+00:03:05,600 --> 00:03:07,433
+Before you submit your work
+
+85
+00:03:07,500 --> 00:03:09,266
+you are encouraged to take advantage of the
+
+86
+00:03:09,266 --> 00:03:11,232
+“Review Answers” button.
+
+87
+00:03:11,900 --> 00:03:14,366
+This brings you back to the main task screen
+
+88
+00:03:14,633 --> 00:03:16,399
+and allows you to review or change
+
+89
+00:03:16,400 --> 00:03:17,100
+your answers.
+
+90
+00:03:17,566 --> 00:03:18,066
+Then,
+
+91
+00:03:18,233 --> 00:03:19,899
+after you have reviewed your answers,
+
+92
+00:03:19,933 --> 00:03:21,866
+click “Finish and Submit” again.
+
+93
+00:03:21,966 --> 00:03:22,632
+When you are ready,
+
+94
+00:03:22,866 --> 00:03:24,932
+submit your final answers for scoring
+
+95
+00:03:24,933 --> 00:03:26,833
+by clicking on the “Submit” button.
+
+96
+00:03:27,200 --> 00:03:28,700
+After you have submitted your work,
+
+97
+00:03:28,900 --> 00:03:30,766
+you will be able to review your score
+
+98
+00:03:30,766 --> 00:03:33,166
+and the time it took you to complete the simulation.
+
+99
+00:03:33,900 --> 00:03:34,633
+Clicking on the
+
+100
+00:03:34,633 --> 00:03:35,999
+“Check Answers” button
+
+101
+00:03:36,000 --> 00:03:38,333
+allows you to look at a detailed analysis
+
+102
+00:03:38,333 --> 00:03:39,399
+of your answers,
+
+103
+00:03:39,466 --> 00:03:41,732
+so you can see how your score was calculated.
+
+104
+00:03:42,233 --> 00:03:44,133
+After you are done reviewing your score,
+
+105
+00:03:44,600 --> 00:03:47,000
+click the “Click Here to Close” button
+
+106
+00:03:47,000 --> 00:03:48,933
+to close out of the completed job.
+

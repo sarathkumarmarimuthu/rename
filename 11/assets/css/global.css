@@ -1,0 +1,255 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body{
+	margin:0;
+	padding:0;
+	font-family:Lato-Regular;
+	background:#333;
+	overflow:auto;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;	
+	-webkit-user-modify: none;
+	-webkit-highlight: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;	
+	-webkit-tap-highlight-color: rgba(0,0,0,0); 
+	-webkit-tap-highlight-color: transparent;
+	overflow:hidden;
+	
+}
+.maincontainer{
+	margin: 0 auto;
+	width:1000px;
+	height:625px;
+	//background:#DFCEB8;
+	position:absolute;
+	left:0px;
+	right:0px;
+	margin:auto;
+	
+	overflow:hidden;
+
+	
+}
+
+/* header Start */
+
+.header{
+	width:100%;
+	height:60px;
+	background:#F8F1E9;
+	position:absolute;
+	overflow:hidden;
+}
+.headingscore
+{
+	height:100%;
+	width:100px;
+	position:absolute;
+	text-align:center;
+}
+.headingtitle
+{
+	padding:20px 50px;
+	position:absolute;
+	font-size:21px;
+	text-align:left;
+	width:100%;
+	color:#2D8DC6;
+}
+
+.logo
+{
+    position: absolute;
+    right: 25px;
+    top: -30px;
+}
+
+.genericLogo {
+    position: absolute;
+    right: 25px;
+    top: 13px;
+}
+/* header End */
+
+/* Continar Start */
+.container
+{
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:1000px;
+	height:625px;
+	background-image:url(../images/container-bg.jpg);
+	//overflow:hidden;
+}
+/* Continar End */
+/* Footer Start */
+.footer
+{	
+    position:absolute;
+	top:555px;
+	left:0px;
+	/*background:#ccc;*/
+	width:1000px;
+	bottom: 79px;
+}
+
+.ftrinner
+{
+   /* height: 50px;*/
+   position: absolute;
+   top:21px;
+   left: 6px;    
+   width: 1000px;
+}
+
+.ftrinner2 {
+    background: #f9f5aa none repeat scroll 0 0;
+    color: #191a19;
+    font-family: Lato-Bold;
+    font-size: 14px;
+    height: 40px;
+    left: 0;
+    position: absolute;
+    text-align: left;
+    top: 29px;
+    width: 1000px;
+    //z-index: 23;
+}
+.ftrinner1
+{
+    bottom: 30px;
+    position: absolute;
+    right: 54px;
+}
+.ftrinner3
+{
+	bottom: 30px;
+	position: absolute;
+	right: 54px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+  margin-left:10px;
+  margin-top:4px;
+  width:100px;
+  cursor:pointer;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.btn, .clkheretocls
+{
+	width:150px;
+	background-color:red;
+	border-radius:10px;
+	font-family:Lato-Black;
+}
+.btn, .clkheretocls {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  color: #ffffff;
+  font-size: 13px;
+  background: #214675;
+  padding: 8px 20px 8px 20px;
+  text-decoration: none;
+  border:none;
+  margin-bottom:10px;
+}
+
+.btn:hover, .clkheretocls:hover {
+  background: #214675;
+  text-decoration: none;
+}
+
+
+/* Footer End */
+
+
+/* text css */
+
+.tcent {
+    color: #44311c;
+    font-family: Lato-Semibold;
+    font-size: 13pt;
+    height: 42px;
+    margin-left: 75px;
+    margin-top: 5px;
+    overflow: auto;
+    text-align: center;
+    width: 800px;
+}
+
+	.emptyClass
+{
+	background:#fff;
+}
+.graybackground
+{
+	background:#CCC;
+	opacity:0.5;
+}
+.orangeColor
+{
+	border-radius: 28px;
+    color: #fff;
+    font-size: 11px;
+    background:#e85028 !important;
+    padding: 10px 0px 10px 0px;
+    text-decoration: none;
+    border: none;
+    bottom: 37px;
+    left: 134px;
+    text-align: center;
+    cursor: pointer;
+    width: 112px;
+    position: absolute;
+    font-family: Lato-Black;
+    z-index: 201;
+}
+.orangeColor1
+{
+	background:#fff;
+	opacity:1;
+	color:#fff;
+}
+.dummy
+{
+    position: absolute !important;
+    width: 129px !important;
+    height: 38px !important;
+    bottom: 33px;
+    left: 123px;
+    z-index: 8;
+    display: block;
+    z-index: 300;
+   background: Transperent;
+}

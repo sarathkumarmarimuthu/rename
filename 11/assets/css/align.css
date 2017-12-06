@@ -1,0 +1,1842 @@
+.floatLeft{
+	position:relative;
+	float:left;
+	width:255px;
+	height:auto;
+    font-family:Times-Roman;
+	font-size:16px;	
+	z-index: 1000;
+}
+.floatLeft4{
+	position:relative;
+	float:left;
+	width:235px;
+	height:auto;
+    font-family:Times-Roman;
+	font-size:16px;	
+	z-index: 1000;
+}
+
+.floatLeft9{
+	position:relative;
+	float:left;
+	width:325px;
+	height:auto;
+    font-family:Times-Roman;
+	font-size:16px;	
+	z-index: 1000;
+}
+
+.floatLeft{
+	position:relative;
+	float:left;
+	width:255px;
+	height:auto;
+    font-family:Times-Roman;
+	font-size:16px;	
+	z-index: 1000;
+}
+.floatLeftInvoice{
+	position:relative;
+	float:left;
+	width:560px;
+	height:auto;
+    font-family:Times-Roman;
+	font-size:16px;	
+	z-index: 1000;
+}
+#reviewAnswer  .floatleft4margin {margin-top: 50px !important;}
+.scaleCard  .floatleft4margin,.panelContainer  .floatleft4margin, #zoompopup #cloneContainer .carDrop .floatleft4margin{margin-top: 0px !important;}
+.scaleCard  .floatLeft, .scaleCard  .floatLeftInvoice, .scaleCard  .floatLeft4 {z-index: 0;}
+.scaleCard .margintopminus78px, .swapArea .margintopminus78px  { margin-top: -70px !important; }
+.scaleCard .margintopminus80px, .swapArea .margintopminus80px  { margin-top: -70px !important; }
+ 
+ .panelContainer  .carDrop .leftRightParallelTelphoneCon { margin-top: 58px !important; }
+ #zoompopup #cloneContainer .leftRightParallelTelphoneCon { margin-top: 58px !important; }
+.panelContainer .carDrop .floatrightShipTo{left: 475px;   }
+.panelContainer .carDrop .floatrightShipTo1{left: 550px; }
+.panelContainer .carDrop .quantityDetails tr th:first-child, #reviewAns  .quantityDetails tr th:first-child {width: 100px;}
+.panelContainer .carDrop .quantityDetails tr th:nth-child(2), #reviewAns  .quantityDetails tr th:nth-child(2){width: 155px;}
+.panelContainer .carDrop .quantityDetails tr th:nth-child(3), #reviewAns  .quantityDetails tr th:nth-child(3){width: 250px;}
+.panelContainer .carDrop .quantityDetails tr th:nth-child(4), #reviewAns  .quantityDetails tr th:nth-child(4){width: 105px;}
+
+#zoompopup #cloneContainer .swapArea .carDrop .quantityDetails tr th:first-child{width: 100px;}
+#zoompopup #cloneContainer .swapArea .carDrop .quantityDetails tr th:nth-child(2){width: 155px;}
+#zoompopup #cloneContainer .swapArea .carDrop .quantityDetails tr th:nth-child(3){width: 250px;}
+#zoompopup #cloneContainer .swapArea .carDrop .quantityDetails tr th:nth-child(4){width: 105px;}
+
+.floatLeft1{
+   position:relative;
+	float:left;
+	width:255px;
+	height:auto;
+    font-family:Times-Roman;
+	font-size:16px;
+}
+	
+.floatLeftjob5{
+	position:relative;
+	float:left;
+	width:307px;
+	height:auto;
+    font-family:Times-Roman;
+	font-size:16px;	
+}
+.floatLeftAbove{
+	position:relative;
+	float:left;
+	width:260px;
+	height:auto;
+    font-family:Times-Roman;
+	font-size:16px;	
+	    margin-top: 55px;
+}
+.floatRight{
+	position:relative;
+	float:right;
+	width:260px;
+	height:auto;
+	
+}
+
+.faxWidth{
+	width: 270px;
+}
+
+.floatRight2{
+	position:relative;
+	float:right;
+	width:395px;
+	height:auto;
+	font-family:Times-Roman;
+	font-size: 16px;
+	left: -60px;
+}
+.floatRight3{
+    position: relative;
+    float: right;
+    width: 695px;
+    height: auto;
+	left: 438px;
+}
+.floatRightjob5{
+	position: relative;
+    float: right;
+    width: 260px;
+    height: auto;
+    left: -110px;
+	
+}
+.leftRightParallel {
+    float: right;
+    height: auto;
+    position: absolute;
+    right: 10px;
+    width: 260px;
+		font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:16px;
+}
+.floatRight1job5{
+	float: left;
+    height: auto;
+    margin-left: 230px;
+    position: relative;
+    width: 260px;
+	
+}
+.chicago_art_logo{ width:50%;}
+.floatRightjob6{
+	float: left;
+    height: auto;
+    margin-left: 550px;
+    position: relative;
+    width: 260px;
+}
+.panelContainer .carDrop .floatRightjob6{margin-left: 435px;}
+#zoompopup #cloneContainer .floatRightjob6{margin-left: 325px;}
+#reviewAns .floatRightjob6{margin-left: 320px;}
+.panelContainer .carDrop .floatRight1job5 {margin-left: 345px;}
+#zoompopup #cloneContainer .floatRight1job5 {margin-left: 235px;}
+
+.scaleCard .forPush .floatRightjob6     {margin-left: 528px;}
+//#zoompopup  .floatRight1job6 {margin-left: 328px;}
+.floatRight1{
+	position:relative;
+	float:right;
+	width:380px;
+	height:auto;
+	font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	z-index:100;
+	font-size:16px;	
+}
+.floatRightauric {
+    position: relative;
+    float: right;
+    width: 380px;
+    height: auto;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    z-index: 1000;
+}
+
+.scaleCard .floatRight1{z-index:0;}
+.floatcenterImage{
+    position: relative;
+    float: none;
+    width: 550px;
+    margin: auto;
+    height: auto;
+    background-image: url(../images/hollo.png);
+    background-repeat: no-repeat;
+    background-size: 175px 100px;
+    background-position: 0px -16px;
+	font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:16px;
+}
+.floatcenterImage3{    position: relative;}
+.floatcenterBold{
+	position:relative;
+	float:none;
+	width:320px;
+	margin:auto;
+	height:auto;
+		font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:21px;
+}
+.markingSignatureBold{    position: relative;    width: 25%;    background-repeat: no-repeat;} 
+.floatcenterImage1{
+    position: relative;
+    float: none;
+    width: 550px;
+    margin: auto;
+    height: auto;
+    background-image: url(../images/episcopal.png);
+    background-repeat: no-repeat;
+    background-size: 12%;
+    background-position: 90px 0px;
+	font-family:Helvetica, sans-serif;
+	font-weight:bold;
+}
+.floatcenterImage2{
+    position: relative;
+    float: none;
+    width: 550px;
+    margin: auto;
+    height: auto;
+    background-image: url(../images/cbs_logo.png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position: 185px 5px;
+	font-family:Helvetica, sans-serif;
+	font-weight:bold;
+}
+.floatcenter{
+	position:relative;
+	float:none;
+	width:340px;
+	margin:auto;
+	height:auto;
+		font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:16px;
+}
+.floatcenterAirwaves{
+	position:relative;
+	float:right;
+	width:300px;
+	margin:auto;
+	height:auto;
+	font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:16px;
+	left:-130px;
+}
+.panelContainer .swapArea .carDrop .floatcenterAirwaves{	width:480px;}
+#zoompopup  #cloneContainer  .floatcenterAirwaves{	width:340px;}
+#zoompopup  #cloneContainer  .air_logo{	left:130px;}
+.floatcenter14px{
+	position:relative;
+	float:none;
+	width:320px;
+	margin:auto;
+	height:auto;
+		font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:14px;
+	line-height: 28px;
+}
+.marking3{
+    margin-top: -40px;
+    position: absolute;
+    height: 100px;
+    width: 120px;
+    margin-left: -60px;
+}
+.floatcenter1{
+	position:relative;
+	float:none;
+	width:320px;
+	margin:auto;
+	height:auto;
+	font-family:Helvetica, sans-serif;
+	font-size:16px;
+}
+.marginlefttop{
+	margin-top: 128px !important;
+    margin-left: 110px !important;
+	position: relative;
+    float: none;
+    width: 50%;
+    background-repeat: no-repeat;
+}
+.notbold{	font-weight:400 !important;}
+.margintop10px{	margin-top: 10px !important;}
+.margintop20px{	margin-top: 20px !important;}
+.margintop25px{	margin-top: 25px !important;}
+
+.margintop50px,.floatleft4margin{	margin-top: 50px !important;}
+.margintopminus80px{	margin-top: -80px !important;}
+.margintopminus50px{	margin-top: -50px !important;}
+.margintopminus40px{	margin-top: -40px !important;}
+.margintopminus20px{	margin-top: -20px !important;}
+.margintopminus25px{	margin-top: -25px !important;}
+.margintopminus12px{	margin-top: -12px !important;}
+.margintop0{	margin-top:0px !important;}
+.margintop78px{	margin-top:78px !important;}
+.margintopminus78px{	margin-top:30px !important;}
+.margintop98px{	margin-top:98px !important;}
+.margintopminus120px{	margin-top:-120px !important;}
+.margintopminus80px{	margin-top:-80px !important;}
+.margintopleft180px{	margin-top:180px !important;margin-left:-30px !important;}
+#reviewAns .leftcon{left:370px;}
+.setbold{
+	position: relative;
+	font-family:Helvetica, sans-serif;
+    font-size: 16px;
+	font-weight:bold;
+}
+.setbold1{font-weight:bold; font-size:16px; }
+.marking2snull{
+	font-family:Savoye-LET-Plain !important;
+	top: 10px;
+    position: absolute;
+}
+.snellround{
+	font-family:Savoye-LET-Plain !important;
+	font-size:27px !important;
+	line-height: 32px !important;
+}
+.snellroundex{
+	font-family:Savoye-LET-Plain;
+	font-size:27px;
+	line-height: 32px;
+	width:235px !important;
+}
+.snellround3{
+	font-family:Savoye-LET-Plain;
+	font-size:21px;
+	line-height: 28px;
+	text-align:center;
+}
+.snellround4{
+    font-family: Savoye-LET-Plain;
+    font-size: 21px;
+    margin-left: 225px;
+    text-align: left;
+    position: relative;
+    line-height: 28px;
+    margin-top: -75px;
+}
+.snellround5{
+    font-family: Savoye-LET-Plain;
+    font-size: 21px;
+    margin-left: 504px;
+    text-align: left;
+    position: relative;
+    margin-top: -24px;
+    line-height: 28px;
+    width: 88%;
+}
+.times{
+	font-family: Times-Roman !important;
+	font-size: 16px;
+}
+.fontsize{font-size: 20px;}
+.leftRightParallelNew {
+    float: right;
+    height: auto;
+    position: absolute;
+    right: 10px;
+    width: 260px;
+	font-family: Times-Roman;
+	font-weight:bold;
+	font-size:16px;
+}
+.leftRightParallel1 {
+    float: right;
+    height: auto;
+    position: absolute;
+    right: 10px;
+    width: 310px;
+	font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:16px;
+	
+}
+.leftRightParallel1New {
+    float: right;
+    height: auto;
+    position: absolute;
+    right: -110px;
+	top: 84px;
+    width: 310px;
+	font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:16px;
+}
+.tlefalign{
+    text-align:left; 
+	line-height: 28px;
+}
+.trigalign{
+    text-align:right; 
+	line-height: 28px;
+}
+.tmidalign{
+    text-align:center;
+	line-height: 28px;
+}
+
+.fontInc{
+	font-size:18px;
+}
+
+.tmidalignLarge{
+    text-align:center;
+	font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:18px;
+	position: relative;
+	line-height: 28px;
+}
+.tmidalignBold{
+    text-align:center;
+	font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	position: relative;
+}
+.auriclogo{
+	position: relative;
+	width: 278px;
+	height: 80px;
+	float: right;
+	margin-top: -33px;
+	background-repeat: no-repeat;
+	margin-right: 80px;
+}
+.air_logo{
+	position: relative;
+	width: 50% !important;
+	background-repeat: no-repeat;
+	left: 150px;
+}
+.scaleCard .forPush .air_logo {left: 150px; margin-top:-10px;}
+.scaleCard .forPush .floatcenterAirwaves {width: 450px;}
+#reviewAns .air_logo {left: 140px;}
+.cbs_logo{ width:35%;}
+.chicago_logo{ width:62%;}
+.letCon
+{
+	position:relative;
+	margin-top:20px;
+	float:left;
+	left:0px;
+	right:0px;
+	width:100%;	
+	text-align:left;
+	height:auto;
+//	color:#999;
+//	background:#ccc;
+    font-family:Times-Roman;
+	font-size:16px;	
+	white-space: normal;
+	overflow-wrap: break-word;
+}
+.letConDate{
+	position:relative;
+	margin-top:0px;
+	float:left;
+	left:0px;
+	right:0px;
+	width:100%;	
+	text-align:left;
+	height:auto;
+    font-family:Times-Roman;
+	font-size:16px;	
+	word-wrap: break-word;
+    white-space: normal;
+}
+.letConSpace{
+	position:relative;
+    margin-top:20px;
+	float:left;
+	left:0px;
+	right:0px;
+	width:100%;	
+	text-align:left;
+	height:50px;
+//	color:#999;
+//	background:#ccc;
+ font-family:Times-Roman;
+ font-size:16px;	
+}
+.letConEn{margin-top:-50px !important;}
+.letConPJ{
+	position:relative;
+	margin-top:20px;
+	float:left;
+	    left: 45px;
+	right:0px;
+	width:69%;	
+	text-align:left;
+	height:auto;
+//	color:#999;
+//	background:#ccc;
+    font-family:Times-Roman;
+	font-size:16px;	
+	word-wrap: break-word;
+    white-space: normal;
+}
+.letCon2 {
+        position: relative;
+    float: right;
+    width: 533px;
+    height: auto;
+    font-family: Times-Roman;
+    font-size: 16px;
+    
+}
+.letConLine{
+	position:relative;
+	//margin-top:20px;
+	float:left;
+	left:0px;
+	right:0px;
+	width:100%;	
+	text-align:left;
+	height:auto;
+	border-bottom: 1px solid black;
+}
+.letCon4 {
+        position: relative;
+    float: right;
+    width: 450px;
+    height: auto;
+    font-family: Times-Roman;
+    font-size: 16px;
+    left: 70px;
+	    top: 45px;
+}
+.markingNamesnewtop19px {
+    float: right;
+    position: relative;
+    width: 30%;
+    background-repeat: no-repeat;
+    top: 19px;
+}
+.letConsnull
+{
+	position:relative;
+	margin-top:0px;
+	float:left;
+	left:0px;
+	right:0px;
+	width:100%;	
+	text-align:left;
+	height:auto;
+//	color:#999;
+//	background:#ccc;
+    font-family:Times-Roman;
+	font-size:27px;	
+}
+.letCon3
+{
+	position:relative;
+	margin-top:20px;
+	float:right;
+	right:0px;
+	left:320px;
+	width:100%;	
+	text-align:left;
+	height:auto;
+//	color:#999;
+//	background:#ccc;
+    font-family:Times-Roman;
+	font-size:16px;	
+}
+.scaleCard .forPush .letCon3{    left: 455px;}
+#zoompopup #cloneContainer .forPush .letCon3{left:327px;}
+
+.scaleCard .forPush .floatRight1job5{ margin-left: 365px;}
+.panelContainer  .letCon3{left:440px;}
+#cloneContainer .swapAreaDrop .swapArea .letCon3{left:325px;}
+.letCon1
+{
+	position:relative;
+	float:right;
+	right:0px;
+	width:100%;	
+	text-align:left;
+	height:auto;
+    font-family:Times-Roman;
+	font-size:16px;	
+}
+.letConGN {
+    position: relative;
+    float: left;
+    width:50%;
+	left:140px;
+    text-align: left;
+    height: auto;
+    font-family: Times-Roman;
+    font-size: 16px;
+}
+.letConnew{
+	position:relative;
+    margin-top:20px;
+	float:left;
+	left:0px;
+	right:0px;
+	width:88%;	
+	text-align:left;
+	height:40px;
+//	color:#999;
+//	background:#ccc;
+ font-family:Times-roman;
+ font-size:16px;	
+}
+.letConTop{
+	position:relative;
+	    margin-top: -45px;
+	//float:left;
+	left:-145px;
+	    right: 175px;
+	width: 52%;
+	text-align:left;
+	height:auto;
+	    margin-bottom: -20px;
+}
+.letConTopsign{
+	position:relative;
+//	margin-top:20px;
+	float:left;
+	left:0px;
+	right:0px;
+	width:100%;	
+	text-align:left;
+	height:auto;
+	color:#999;
+//	background:#ccc;
+
+    font-family:Times-Roman;
+	font-size:16px;		
+}
+.floatcenterBottom{
+	position:relative;
+//	margin-top:20px;
+	float:left;
+	left:0px;
+	right:0px;
+	width:100%;	
+	text-align:center;
+	height:auto;
+//	color:#999;
+  font-family: Helvetica;
+  font-size:15px;
+      font-weight: bold;
+//	background:#ccc;	
+}
+.floatcenterBottom1{
+	position:relative;
+//	margin-top:20px;
+	float:left;
+	left:45px;
+	right:0px;
+	width:100%;	
+	height:auto;
+//	color:#999;
+//	background:#ccc;	
+}
+.substeping{
+    float: right;
+    height: auto;
+    //right: -13px;
+    //margin-top: 44px;
+	//margin-bottom: 5px;
+    position: absolute;
+    width: 374px;
+	//line-height:35px;
+	//background:rgba(0, 0, 255, 0.3);
+}
+.substeping{ 
+    //margin-right: 43px;
+    width: 141px;	
+}
+.substeping .names span{
+    background: rgba(255, 0, 0, 0.001) none repeat scroll 0 0;
+    color: rgba(255, 255, 255, 0.001);
+    display: inline-block;
+    height: 22px;
+    margin-bottom: 10px;
+    position: relative;
+    width: 95%;
+    opacity: 0.5;
+    top: 8px;
+    border-bottom: 2px solid transparent;
+	//background:red;
+}
+.panelContainer  .substeping .names span{
+ margin-bottom: 12px;
+}
+#zoompopup .swapArea .substeping .names span{
+ margin-bottom: 13px;
+}
+#reviewAnswer .substeping .names span{
+    margin-bottom: 12px;
+	top: 11px;
+}
+
+.floatLeft2 {
+    float: left;
+    height: auto;
+    margin-top: -3px;
+    position: relative;
+    width: 663px;
+    font-family:Times-Roman;
+	font-size:16px;	
+}
+.floatLeft2job5 {
+    float: left;
+    height: auto;
+    margin-top: -3px;
+    position: relative;
+        width: 440px;
+    font-family:Times-Roman;
+	font-size:16px;	
+	margin-bottom: 0px;
+	text-align: left;
+	left: 335px;
+}
+.floatLeft2job5date {
+    float: left;
+    height: auto;
+    margin-top: -3px;
+    position: relative;
+        width: 350px;
+    font-family:Times-Roman;
+	font-size:16px;	
+	bottom: -50px;
+	text-align: left;
+	left: 335px;
+}
+.scaleCard .forPush .floatLeft2job5 {left: 455px;}
+.scaleCard .forPush  .floatLeft2job5date {left: 455px;}
+#zoompopup #cloneContainer .floatLeft2job5 {left: 345px;}
+#zoompopup #cloneContainer  .floatLeft2job5date {left: 345px;}
+.panelContainer .carDrop .floatLeft2job5{left: 425px;}
+.panelContainer .carDrop .floatLeft2job5date {left: 425px;}
+.floatLeft3 {
+   position:relative;
+	float:left;
+	width:260px;
+	height:auto;
+	margin-left:100px;
+    font-family:Times-Roman;
+	font-size:16px;	
+}
+.floatLeftFaxAbove{
+	position:relative;
+	float:left;
+	width: 685px;
+	height:auto;
+	font-family:Times-Roman;	
+	font-size:16px;
+	z-index:1000;
+}
+.scaleCard .forPush .floatLeftFaxAbove{z-index:0;}
+.scaleCard .forPush .floatLeftFax1{z-index:0;}
+.floatLeftFax1{
+	position:relative;
+	float:left;
+    width: 220px;
+	height:auto;
+	font-family:Times-Roman;	
+	font-size:16px;
+	z-index:1000;
+}
+.floatRightCon{
+	position:relative;
+	float:right;
+	width:260px;
+	height:auto;
+	left:20px;
+	top: -30px;
+}
+.floatRightCon1{
+	position:relative;
+	float:right;
+	    width: 75px;
+	height:auto;
+	left: 210px;
+	top: -30px;
+}
+.floatRightFax{
+	position:relative;
+	float:right;
+	width:280px;
+	height:auto;
+}
+.signature{
+   color:#8BBC69;
+   font-family:Lucida-Handwriting-Italic;
+}
+.signatureRight{
+   margin-left: 470px;
+}
+.signatureRight1{
+   margin-left: 468px;
+}
+
+#reviewAns  .signatureRight1{
+   margin-left: 450px;
+}
+#reviewAns  .signatureRight{
+   margin-left: 440px;
+}
+.panelContainer .swapArea .signatureRight{
+	 margin-left: 470px;
+}
+.panelContainer .swapArea .signatureRight1{
+   margin-left: 475px;
+}
+#zoompopup .swapArea .signatureRight1{
+   margin-left: 480px;
+}
+#zoompopup .swapArea .signatureRight{
+   margin-left: 470px;
+}
+.markingRight1 {
+    margin-right: 450px;
+    position: absolute;
+    top: 7px;
+}
+.marking{   
+   color:#8BBC69;
+   font-family:Lucida-Handwriting-Italic;
+}
+.markingDate{
+   margin-left: 175px;
+   font-family:Lato-Regular !important;
+}
+   .markingDatenew{
+    position: relative;
+    float: none;
+    width: 15%;
+    margin-left: 300px;
+    background-repeat: no-repeat;
+} 
+   .markingDatenew1{
+    position: relative;
+    float: none;
+    width: 18%;
+    margin-left: 300px;
+    background-repeat: no-repeat;
+}
+ .signatureNew{
+    position: relative;
+    margin-bottom: 98px;
+    float: left;
+    left: 45px;
+    right: 0px;
+    width: 100%;
+    height: 20px;
+	}
+.markingDatenewleftBottom {
+    position: relative;
+    float: none;
+    width: 68px;
+      margin-left: -396px;
+    margin-bottom: -30px;
+    background-repeat: no-repeat;
+} 
+.markingDatenewleft {
+    position: relative;
+    float: none;
+    width: 84px;
+    margin-left: -407px;
+    background-repeat: no-repeat;
+}
+.Datenew{width:95px;margin-left: 350px;}
+.Datenew1{ width:33%;}
+ .markingDatenewSnull{
+    position: relative;
+    float: none;
+    width: 15%;
+    margin-left: 300px;
+	top: -55px;
+	left: 50px;
+    background-repeat: no-repeat;
+} 
+//.scaleCard .forPush .markingDatenewSnull {left: 210px;}
+.markingRemind{
+    position: relative;
+    float: none;
+    width: 50%;
+    margin-top: 98px;
+    background-repeat: no-repeat;
+}
+.markingRemindtopleft{
+   position: relative;
+	float: none;
+	width: 50%;
+	margin-top: 68px;
+	background-repeat: no-repeat;
+	margin-left: 120px;
+
+}
+.markingRemindNew{
+	position: relative;
+	float: none;
+	width: 100%;
+	margin-top: -104px;
+	background-repeat: no-repeat;
+} 
+.markingSignature{
+    position: relative;
+    width: 32%;
+    background-repeat: no-repeat;
+}
+.markingSignatureNew{
+    position: relative;
+    width: 38%;
+    background-repeat: no-repeat;
+}
+.signtop {    margin-top: -105px;}
+ .markingNamesnewjob5 {
+    float: right;
+    right: 200px;
+    position: relative;
+    width: 17%;
+    background-repeat: no-repeat;
+    top: -71px;
+}
+.markingNamesnew1job5{
+    float: right;
+    position: relative;
+    width: 10%;
+	right: 100px;
+    background-repeat: no-repeat;
+    top: -100px;
+}
+.markingNamesnewAbove{
+     float: right;
+    right: 388px;
+    position: relative;
+    width: 15%;
+    background-repeat: no-repeat;
+    top: -62px;
+}
+.markingNamesnewAbove1{
+     float: right;
+    right: 188px;
+    position: relative;
+    width: 15%;
+    background-repeat: no-repeat;
+    top: -62px;
+}
+.markingNamesnew {
+    float: right;
+    position: relative;
+    width: 30%;
+    background-repeat: no-repeat;
+    top: -110px;
+}
+.markingNamesnewImage {
+    background-repeat: no-repeat;
+    float: right;
+    left: -250px;
+    position: relative;
+    top: -60px;
+    width: 30%;
+}
+.markingNamesnewImage1 {
+    background-repeat: no-repeat;
+    float: right;
+    left: -250px;
+    position: relative;
+    top: -30px;
+    width: 30%;
+}
+.markingNamesnew1 {
+    float: right;
+    position: relative;
+    width: 30%;
+    background-repeat: no-repeat;
+    left: -110px;
+	top: -60px;
+}
+#zoompopup #cloneContainer .markingNamesnew1fla{left: -100px;}
+.scaleCard .forPush .markingNamesnew1fla{left: -270px;}
+.panelContainer .carDrop .markingNamesnew1fla{left: -220px;}
+
+.markingNamesnew1job6 {
+    float: right;
+    position: relative;
+    width: 30%;
+    background-repeat: no-repeat;
+    left: -410px;
+	top: -150px;
+}
+.markingNamesnew2 {
+    float: right;
+    position: relative;
+    width: 30%;
+    background-repeat: no-repeat;
+    left: 40px;
+	top: -60px;
+}
+.markingNamesnew2job5 {
+    background-repeat: no-repeat;
+    float: right;
+    left: -275px;
+    position: relative;
+    top: 25px;
+    width: 25%;
+}
+.markingNamesImgNew{
+    float: right;
+    position: relative;
+    width: 30%;
+	left: -75px;
+    background-repeat: no-repeat;
+    top: -175px;
+}
+.markingDateParallel {
+    float: right;
+    height: auto;
+    position: absolute;
+    right: 331px;
+    width: 90px;
+}
+.markingDateParalleljob5 {
+    float: left;
+    height: auto;
+    left: -300px;
+    position: absolute;
+    top: 20px;
+}
+.markingImgParallel {
+    position: absolute;
+    left: -227px;
+    top: 13px;
+}
+.markingImgParalleljob5 {
+    position: absolute;
+    left: -227px;
+    top: 13px;
+}
+.floatParallelLeft{
+	position:relative;
+	float:left;
+	width:330px;
+	height:auto;
+    font-family:Helvetica, sans-serif;
+	font-size:16px;	
+	font-weight:bold;
+}
+.floatParallelLeft1{
+	position:relative;
+	float:left;
+	width:310px;
+	height:auto;
+    font-family: Helvetica-Bold;
+	font-size:12px;	
+}
+.floatParallelLeft2{
+	position:relative;
+	float:left;
+	width:490px;
+	height:auto;
+    font-family:Helvetica, sans-serif;
+	font-size:16px;	
+	font-weight:bold;
+}
+.floatParallelLeft1job5{
+	position:relative;
+	float:left;
+	width:330px;
+	height:auto;
+    font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:12px;	
+}
+.leftRightParallel2{
+    float: right;
+    height: auto;
+    position: absolute;
+    right: 10px;
+    width: 306px;
+    font-family:Helvetica-Bold;
+	/*border-bottom: 1px solid black;*/
+	font-size:12px;
+	margin-top: -2px;
+}
+
+.markingNames {
+    float: right;
+    height: auto;
+    right: 100px;
+    position: relative;
+    width: 202px;
+	text-align:left; 
+}
+.markingNamesRemind {
+	margin-top: -50px;
+    float: right;
+    height: auto;
+    right: 100px;
+    position: relative;
+    width: 202px;
+	text-align:left; 
+}
+.markingNamesTop{
+    float: left;
+    height: auto;
+    left: 235px;
+    position: relative;
+    text-align: center;
+    top: 80px;
+    width: 115px;
+}
+.markingNamesbtm {  
+    float: right;
+    height: auto;
+    position: relative;
+    text-align: left;
+    width: 200px;
+	top: 50px;
+ }
+ .floatLeftImagination{
+	position:relative;
+	float:left;
+	width:306px;
+	height:auto;
+    font-family:Times-Roman;
+	font-size:16px;	
+}
+ .leftRightParallelTelphone{
+    float: right;
+    height: auto;
+    position: absolute;
+    right: 32px;
+    width: 80px;
+    font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	/*border-bottom: 1px solid black;*/
+	font-size:12px;
+    margin-top: 60px;
+    margin-right: 90px;
+}
+.leftRightParallelTelphoneCon{
+    float: right;
+    height: auto;
+    position: absolute;
+    right: 10px;
+    width: 306px;
+    font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	/*border-bottom: 1px solid black;*/
+	font-size:12px;
+	margin-top: 60px;
+}
+.floatParallelFaxLeftPhone{
+	position: relative;
+    float: left;
+    width: 80px;
+    height: auto;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: -328px;
+    margin-top: 130px;
+	
+}
+.floatLeftauric {
+    float: left;
+    height: auto;
+    margin-top: -3px;
+    position: relative;
+    width: 385px;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    margin-bottom: 50px;
+    text-align: left;
+    left: 260px;
+}
+.scaleCard .forPush .floatLeftauric {left: 290px;}
+#zoompopup #cloneContainer .floatLeftauric {left: 190px;}
+.panelContainer .carDrop .floatLeftauric {left: 300px;}
+.floatParallelFaxLeftPhoneCon{
+	position:relative;
+	float:left;
+	width:200px;
+	height:auto;
+    font-family:Helvetica, sans-serif;
+	font-size:16px;	
+	font-weight:bold;
+	margin-left: -268px;
+    margin-top: 130px;
+}
+.floatLeftChicago {
+    float: left;
+    height: auto;
+    margin-top: -3px;
+    position: relative;
+    font-family:Helvetica, sans-serif;
+	font-size:16px;	
+	text-align: left;
+	left: 50px;
+    font-weight: bold;
+}
+
+.floatLeftChicagoFAX{
+    float: left;
+    height: auto;
+	width:56px;
+    margin-top: -3px;
+    position: relative;
+    font-family:Helvetica, sans-serif;
+	font-size:16px;	
+	text-align: left;
+	left: 50px;
+    font-weight: bold;
+	    margin-right: 0px;
+    margin-top: -8px;
+}
+
+.floatLeftChicagoFAXCon{
+        float: left;
+    height: auto;
+    margin-top: -3px;
+    position: relative;
+    font-family:Helvetica, sans-serif;
+	font-size:16px;	
+	text-align: left;
+	left: 50px;
+    font-weight: bold;
+    margin-left: -17px;
+    margin-top: -8px;
+}
+
+.floatLeftauricConPhone {
+    float: left;
+    height: auto;
+    position: relative;
+    width: auto;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    margin-bottom: 50px;
+    text-align: left;
+    margin-top: 26px;
+    margin-left: -200px;
+}
+
+.floatLeftauricConPhoneCon {
+    float: left;
+    height: auto;
+    position: relative;
+    width: auto;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    margin-bottom: 50px;
+    text-align: left;
+    margin-top: 26px;
+    margin-left: -143px;
+}
+
+.floatLeftauricConFax {
+    float: left;
+    height: auto;
+    position: relative;
+    width: auto;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    margin-bottom: 50px;
+    text-align: left;
+    margin-top: 26px;
+    margin-left: -7px;
+}
+
+.floatLeftauricConFaxCon {
+    float: left;
+    height: auto;
+    position: relative;
+    width: auto;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    margin-bottom: 50px;
+    text-align: left;
+    margin-top: 26px;
+    margin-left: 10px;
+}
+.hidesimbtncontain{display:none}
+#reviewAnswer{
+	width: 980px !important;
+	height:450px !important;
+	top:20px !important;
+}
+#zoompopup .simworkarea {}
+#zoompopup .scaleCard{
+	//height:840px;
+}
+#zoompopup .markingNames1{
+	bottom:225px;
+}
+#zoompopup .crossreference{   left: 330px; top: 125px;} 
+#zoompopup .crossreference form  div {position:absolute; left:0px; top:0px;} 
+#zoompopup .ticklefile{   left: 330px; top: 125px;} 
+.zoomWord{    
+    font-size: 50px;
+    font-weight: bold;
+	margin-top: 10px;
+	 }
+.letConmid{	text-align:center;	}
+.alt1{ background-color: #ffffff;}
+.alt{ background-color: #f2f2f2;}
+/* Main DIV */
+.subinput {
+    float: right;
+    height: 140px;
+    position: relative;
+    width: 280px;
+}
+.subinput input {
+    //box-shadow:0 0 1px 1px #000;
+      margin-bottom: 5px;
+      height: 20px;
+      cursor:auto !important;
+      -moz-box-sizing: border-box;
+	  box-sizing: border-box;
+	 -webkit-appearance: none;
+	 -webkit-border-radius:0;
+}
+.SubInputTop {
+    z-index: 11;
+    margin-left: 290px;
+    margin-top: -80px;
+    float: right;
+    height: 140px;
+    position: absolute;
+    width: 280px;
+}
+.SubInputTop input {
+    //box-shadow:0 0 1px 1px #000;
+      margin-bottom: 5px;
+      height: 20px;
+      cursor:auto !important;
+      -moz-box-sizing: border-box;
+	  box-sizing: border-box;
+	 -webkit-appearance: none;
+	 -webkit-border-radius:0;
+}
+.scaleCard .forPush .SubInputTop{    margin-left: 410px;}
+#zoompopup #cloneContainer .SubInputTop{    margin-left: 290px;}
+.panelContainer .carDrop .SubInputTop{        margin-left: 420px;    margin-top: -30px;}
+#zoompopup #cloneContainer .carDrop .SubInputTop{    margin-top: -30px; margin-left: 290px;}
+#reviewAnswer  .SubInputTop{    margin-left: 340px;    margin-top: -30px;}
+/* Left DIV */
+.labelLeft{
+    width: 110px;
+    margin: 0px;
+    float: left;
+    text-align: right;
+    font-family:Times-Roman;
+    font-size:16px;	
+}
+ /* Right DIV */
+.InputRight{
+    width: 130px;
+    margin: 0px;
+    padding: 0px;
+    float: right;
+    text-align: left;
+}
+.fieldDiv{
+    clear: both;
+    width: 250px;
+    padding: 10px;
+}
+.tlefalign1>.names {
+	background: #fff;
+    text-align: left;
+    padding: 5px;
+}
+.tlefalign1{
+    position: relative;
+    margin-top: -150px;
+	font-size:16px;
+	font-family: Helvetica, sans-serif;
+	    box-shadow: 0 0 0 6px #eee;
+    margin-right: 10px;
+}
+.tlefalign1>.names:last-child{
+	    font-family: Helvetica, sans-serif;
+    text-align: left;
+    background-color: #fff !important;
+    padding: 5px;
+    padding-bottom: 7px;
+}
+.tlefalign1 > .names:first-child {
+    font-family: Helvetica,sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.tlefalign1>.names:nth-child(2), .tlefalign1>.names:nth-child(4) {    background-color: #eee !important;}
+.tlefalign2>.names {
+	background: #fff;
+    text-align: left;
+    padding: 5px;
+}
+.tlefalign2{
+    position: relative;
+    margin-top: -150px;
+	font-size:16px;
+	font-family: Helvetica, sans-serif;
+	    box-shadow: 0 0 0 6px #eee;
+    margin-right: 10px;
+}
+.tlefalign2>.names:last-child{
+	font-family: Helvetica, sans-serif;
+    text-align: left;
+    background-color: #fff !important;
+    padding: 5px;
+    padding-bottom: 7px;
+}
+.tlefalign2 > .names:first-child {
+    font-family: Helvetica,sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.tlefalign2>.names:nth-child(2), .tlefalign2>.names:nth-child(3), .tlefalign2>.names:nth-child(5)  {    background-color: #eee !important;}
+.tlefalign3>.names {
+	background: #fff;
+    text-align: left;
+    padding: 5px;
+}
+.tlefalign3{
+    position: relative;
+    margin-top: -250px;
+	font-size:16px;
+	font-family: Helvetica, sans-serif;
+	    box-shadow: 0 0 0 6px #eee;
+    margin-right: 10px;
+}
+.tlefalign3>.names:last-child{
+	font-family: Helvetica, sans-serif;
+    text-align: left;
+    background-color: #fff !important;
+    padding: 5px;
+    padding-bottom: 7px;
+}
+.tlefalign3>.names:nth-child(2),.tlefalign3>.names:nth-child(3), .tlefalign3>.names:nth-child(4), .tlefalign3>.names:nth-child(6), .tlefalign3>.names:nth-child(7) {	background-color: #eee !important;}
+.tlefalign3>.names:first-child{
+	font-family: Helvetica, sans-serif;
+	font-weight:bold;
+	text-align:center;
+}
+
+.tlefalign4>.names {
+	background: #fff;
+    text-align: left;
+    padding: 5px;
+}
+.tlefalign4{
+    position: relative;
+    margin-top: -250px;
+	font-size:16px;
+	font-family: Helvetica, sans-serif;
+	    box-shadow: 0 0 0 6px #eee;
+    margin-right: 10px;
+}
+.tlefalign4>.names:last-child{
+	font-family: Helvetica, sans-serif;
+    text-align: left;
+    background-color: #fff !important;
+    padding: 5px;
+    padding-bottom: 7px;
+}
+.tlefalign4>.names:nth-child(2),.tlefalign4>.names:nth-child(3), .tlefalign4>.names:nth-child(5), .tlefalign4>.names:nth-child(6) {	background-color: #eee !important;}
+.tlefalign4>.names:first-child{
+	font-family: Helvetica, sans-serif;
+	font-weight:bold;
+	text-align:center;
+}
+
+.num{border:0px}
+.bg-text {
+    color:#00AEEF;
+	opacity:0.7;
+    font-size: 100px;
+    transform: rotate(300deg);
+    -ms-transform: rotate(300deg);
+    -webkit-transform: rotate(300deg);
+	font-family:Lato-Black;
+}
+.background {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    //color: yellow;
+    display: block;
+    min-height: 50%;
+    min-width: 50%;
+    position: relative;
+    z-index: 0;
+	top: 360px;
+	right: 10px;
+}
+.floatleftIndent{
+	position: relative;
+    float: left;
+    width: 240px;
+    height: auto;
+    margin-top: 67px;
+}
+.floatleftIndent>.names:nth-child(6),.floatleftIndent>.names:nth-child(7),.floatleftIndent>.names:nth-child(0),.floatleftIndent>.names:nth-child(5){margin-left:25px;}
+.floatrightShipTo {
+    float: none;
+    height: auto;
+    left: 355px;
+    margin-top: 160px;
+    position: absolute;
+    width: 320px;
+}
+.floatrightShipTo1 {
+    float: none;
+    height: auto;
+    left: 430px;
+    margin-top: 160px;
+    position: absolute;
+    width: 320px;
+}
+#zoompopup #cloneContainer .forPush .floatrightShipTo {margin-top: 160px;left: 348px;}
+#zoompopup #cloneContainer .forPush .floatrightShipTo1 {margin-top: 160px;left: 422px;}
+#zoompopup  #cloneContainer .swapAreaDrop .swapArea .carDrop  .floatrightShipTo {margin-top: 160px;left: 340px;}
+.scaleCard .forPush .floatrightShipTo {left: 458px;}
+.scaleCard .forPush .floatrightShipTo1 {left: 532px;}
+#zoompopup  #cloneContainer .swapAreaDrop .swapArea .carDrop .floatrightShipTo1 {margin-top: 160px;left: 410px;}
+#reviewAns  .floatrightShipTo {left: 405px;}
+#reviewAns  .floatrightShipTo1 {left: 475px;}
+#reviewAns .floatcenterAirwaves{left: -180px;}
+.transactionDetails th {
+    background-color: #fff !important;
+	text-align:left;
+	width:144px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.transactionDetails tr {
+    background-color: #fff;
+	text-align:left;
+}
+.transactionDetails tr:nth-child(2n){
+    background-color: #CCC !important;
+	text-align:left;
+}
+.quantityDetails tr:nth-child(2n){
+    background-color: #CCC !important;
+	text-align:left;
+}
+.quantityDetails tr{
+    background-color: #fff;
+	text-align:left;
+}
+.quantityDetails th{
+    background-color: #fff !important;
+	text-align:left;
+	width:144px;
+	padding-left:5px;
+	padding-right:5px;
+}
+
+.quantityDetails th:first-child{width: 80px;}
+.quantityDetails th:nth-child(2){width: 135px;}
+.quantityDetails th:nth-child(3){width: 224px;}
+.quantityDetails th:nth-child(4){width: 93px;}
+
+.transactionDetails td{ height:50px;
+padding-left:5px;
+padding-right:5px;
+}
+.quantityDetails  td{ height:30px;
+padding-left:5px;
+padding-right:5px;
+}
+//#reviewAns .Card15{     top: 155px !important;  }
+.testvisible1 .names span{
+	color:#000 !important; 
+	opacity:1 !important; 
+	text-align:left;    
+	margin-left: 2px;
+    margin-top: 1px;
+}
+//.testvisible {margin-top:108px;}
+//#zoompopup .testvisible {margin-top:98px;}
+
+.subinput input[type=text]:enabled {
+    background: #fff;
+	color:#000;
+	border:#999 2px dotted;
+}
+.subinput  input[type=text]:disabled {
+   -webkit-text-fill-color: rgba(0, 0, 0, 1); 
+  -webkit-opacity: 1; 
+   color:#000; 
+   background: white;
+   border:#999 2px dotted;
+}
+.SubInputTop input[type=text]:enabled {
+    background: #eee;
+	color:#000;
+	border:#999 2px dotted;
+}
+.SubInputTop  input[type=text]:disabled {
+   -webkit-text-fill-color: rgba(0, 0, 0, 1); 
+  -webkit-opacity: 1; 
+   color: rgba(0, 0, 0, 1); 
+   background: #eee;
+   border:#999 2px dotted;
+}
+input[type=text]:enabled {
+    background: #fff;
+	color:#000;
+	border:#999 2px solid;
+}
+input[type=text]:disabled {
+   -webkit-text-fill-color: rgba(0, 0, 0, 1); 
+  -webkit-opacity: 1; 
+   color: rgba(0, 0, 0, 1); 
+   background: white;
+   border:#999 2px solid;
+}
+.track1{
+    width:10px;
+	background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 5px;	
+	margin-top: -3px;
+	-webkit-margin-before:-12px;
+}
+.track2{
+    width:10px;
+    background-color: rgb(22, 184, 233);
+    border: 0 solid #fff;
+    border-radius: 5px;
+	background-image: linear-gradient(to right, rgba(255, 255, 255, 0.5) 0px, rgba(255, 255, 255, 0) 100%);
+    background-repeat: repeat-y;
+}
+/* Let's get this party started */ 
+::-webkit-scrollbar { 
+   width: 10px; 
+   margin-left:5px; 
+   }
+ /* Track */ 
+ ::-webkit-scrollbar-track { 
+   -webkit-border-radius: 5px;
+   background-color: rgba(0, 0, 0, 0.2);
+   border-radius: 5px;
+   } /* Handle */ 
+ ::-webkit-scrollbar-thumb { 
+   -webkit-border-radius: 5px; 
+    border-radius: 5px;
+    background:rgb(22, 184, 233); 
+   } 
+ ::-webkit-scrollbar-thumb:window-inactive { 
+    background: rgb(22, 184, 233) 
+	}
+.firstHighlight{
+	height: 30px;
+	width: 524px;
+	margin-left: 9px;
+	background-color:#424143;
+	filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#424143, endColorstr=#FBAF3F);
+	background-image:-moz-linear-gradient(top, #424143 63%, #FBAF3F 63%);
+	background-image:-webkit-linear-gradient(top, #424143 63%, #FBAF3F 63%);
+	background-image:-ms-linear-gradient(top, #424143 63%, #FBAF3F 63%);
+	background-image:linear-gradient(top, #424143 63%, #FBAF3F 63%);
+	background-image:-o-linear-gradient(top, #424143 63%, #FBAF3F 63%);
+	background-image:-webkit-gradient(linear, right top, right bottom, color-stop(63%,#424143), color-stop(63%,#FBAF3F));
+}
+.middleHighlight{
+	height: 30px;
+	width: 524px;
+	margin-left: 9px;
+	background-color:#faf6e1;
+	filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#faf6e1, endColorstr=#FBAF3F);
+	background-image:-moz-linear-gradient(top, #faf6e1 63%, #FBAF3F 63%);
+	background-image:-webkit-linear-gradient(top, #faf6e1 63%, #FBAF3F 63%);
+	background-image:-ms-linear-gradient(top, #faf6e1 63%, #FBAF3F 63%);
+	background-image:linear-gradient(top, #faf6e1 63%, #FBAF3F 63%);
+	background-image:-o-linear-gradient(top, #faf6e1 63%, #FBAF3F 63%);
+	background-image:-webkit-gradient(linear, right top, right bottom, color-stop(63%,#faf6e1), color-stop(63%,#FBAF3F));	
+}
+.dummyOut{
+    position: absolute;
+    height: 50px;
+    width: 430px;
+    top: -64px;
+    left: 98px;
+	//background:red;
+	
+}
+.floatleftIndentnew{
+	position:relative;
+	float:left;
+	width:30px;
+	height:auto;
+	margin-top: 67px;
+}
+.lineHeight{	line-height:28px;}
+.nocod { margin-top: -50px;}
+.SignatureLeft{margin-left: 100px;}
+.toDown{top: 30px;}
+.twUp{ top: -35px; left: 110px;}
+.SignatureLeft1{margin-left: 70px;}
+.troyDavis{top: -78px; left: -50px;}
+.italic{font-style: italic;}
+.electric_logo{ margin-left: 75px; width: 15%;}
+
+.markingImgParallel1 {
+       float: right;
+    left: -30px;
+    position: relative;
+    top: 8px
+}
+.floatRight1job6{
+	position:relative;
+	float:right;
+	width:300px;
+	height:auto;
+	font-family:Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+}
+.floatRightauric{
+	position:relative;
+	float:right;
+	width:380px;
+	height:auto;
+	font-family:Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+}
+.floatRightauric2 {
+    position: relative;
+    float: right;
+    width: 172px;
+    height: auto;
+    right: -368px;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    //font-weight: bold;
+    z-index: 1000;
+    margin-top: 28px;
+}
+.scaleCard .floatRightauric, .scaleCard .floatRightauric2{z-index: 0;}
+.floatcenter2{
+	float: right;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    height: auto;
+    margin-right: 110px;
+    margin-top: -100px;
+    position: relative;
+    width: 320px;
+}
+.scaleCard .forPush .floatcenter2{margin-right: 230px;}
+#zoompopup #cloneContainer .floatcenter2{margin-right: 110px;}
+.panelContainer .carDrop .floatcenter2{margin-right: 200px;}
+.marginlefttop1{
+	background-repeat: no-repeat;
+    float: right;
+    margin-right: 205px;
+    margin-top: 120px;
+    position: relative;
+    width: 75%;
+}
+.markingRemindtopleftjob6{
+   position: relative;
+	float: none;
+	width: 50%;
+	margin-top: 200px;
+	background-repeat: no-repeat;
+	margin-left: 120px;
+
+}
+.leftRightRemindNew {
+   float: right;
+    
+    height: auto;
+    position: relative;
+    width: 310px;
+}
+.marginlefttopjob6{
+	background-repeat: no-repeat;
+    float: right;
+    margin-left: 110px;
+    margin-top: -80px;
+    position: relative;
+    width: 60%;
+}
+.floatcenter16px{
+	position:relative;
+	float:none;
+	width:320px;
+	margin:auto;
+	height:auto;
+		font-family:Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:16px;
+}
+
+.trigalign  #name_4_0 span:first-child +em{visibility:hidden !important;}
+.trigalign  #name_2_0 span:first-child +em{visibility:hidden !important;}
+.floatRight   #name_15_0 em ,.floatRight   #name_15_1 span:first-child + em,.floatRight   #name_15_2 span:first-child + em,.floatRight   #name_15_3 span:first-child+em,.floatRight   #name_15_4 span:first-child+em{visibility:hidden !important;}
+
+.floatRight   #name_11_0 em ,.floatRight   #name_11_1 span:first-child + em,.floatRight   #name_11_3 span:first-child + em,.floatRight   #name_11_4 span:first-child+em,.floatRight   #name_11_5 span:first-child+em{visibility:hidden !important;}
+.floatRightauric #name_2_1 span:first-child +em{visibility:hidden !important;}
+.floatRightauric2 #name_3_0 span:first-child +em{visibility:hidden !important;}
+.leftRightParallel #name_3_1 span:first-child +em{visibility:hidden !important;}
+.floatLeftFax1  #name_5_0 span:first-child +em{visibility:hidden !important;}
+.myclass .names
+{
+position: relative;
+float: none;
+width: 340px;
+margin: auto;
+height: auto;
+font-family: Helvetica, sans-serif;
+font-weight: bold;
+}
+.TopInputRight{
+     width: 130px;
+    margin: 0px;
+    /* margin-right: -290px; */
+    padding: 0px;
+    /* margin-top: -80px; */
+    float: right;
+    text-align: left;
+}

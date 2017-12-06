@@ -1,0 +1,53 @@
+/*Regular*/
+
+@font-face {
+	font-family:Lato-Regular;
+	src: url('../fonts/Lato-Regular.woff');
+		 
+	font-weight:normal;
+	-webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+	font-family:Lato-Bold;
+	src:url('../fonts/Lato-Bold.woff') format('woff');
+	font-weight:normal;
+	-webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+	font-family:Lato-Black;
+	src: url('../fonts/Lato-Black.woff');
+		 
+	font-weight:normal;
+	-webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+	font-family:Lato-Semibold;
+	src:url('../fonts/Lato-Semibold.woff') format('woff');
+	font-weight:normal;
+	-webkit-font-smoothing: antialiased;
+}
+
+
+@font-face {
+	font-family:Lato-Heavy;
+	src:url('../fonts/Lato-Heavy.woff') format('woff');
+	font-weight:normal;
+	-webkit-font-smoothing: antialiased;
+}	
+
+@font-face {
+	font-family:Lucida-Handwriting-Italic;
+	src:url('../fonts/LHANDW.woff') format('woff');
+	font-weight:normal;
+	-webkit-font-smoothing: antialiased;
+}
+
+@font-face { 
+	font-family:Savoye-LET-Plain;
+	src:url('../fonts/Savoye-LET-Plain.woff') format('woff');
+	font-weight:normal;
+	-webkit-font-smoothing: antialiased;
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+	<head>
+		<title>Video</title>
+        
+        <script type="text/javascript" src="video-js/jquery.min.js"></script>
+		
+
+        <!-- Video css include -->
+        
+        <link href="video-js/lib/video-js_edge.css" rel="stylesheet" type="text/css">
+        
+        <!-- Video js Include -->
+        <script type="text/javascript" src="video-js/video_edge.js"></script>
+      
+        <script type="text/javascript" src="video-js/videojs.captionToggle_edge.js"></script>
+ 		<style>
+			body {
+				margin:0;
+				padding:0;
+			}
+		</style>
+	</head>
+    
+	<body>
+		<div id="container">
+			<video id="videoPlayer" class="video-js vjs-default-skin" controls preload="none" width="614" height="424" poster="images/navigation.png" data-setup="{}">
+            	<!--../../assets/images/uequipment.png-->
+				<source id="mp4Vid" src="video/navigation.mp4" type="video/mp4">
+                <source id="webmVid" src="video/navigation.webm" type="video/webm">
+				<source id="ogvVid" src="video/navigation.ogv" type="video/ogg">
+                
+				<track id="capVid" kind="captions" src="video/navigation.vtt" srclang="en" label="English"></track>
+                <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+            </video> 
+		</div>
+	</body>
+</html>
+
+<script type="text/javascript">
+
+    $("video").bind("contextmenu",function(){
+        return false;
+        });
+		
+	videojs( 'videoPlayer', {} , function () {
+          this.ccToggle();
+         });
+	   
+</script>

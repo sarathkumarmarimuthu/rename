@@ -1,0 +1,779 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<title>Records Simulation</title>
+
+    <link type="text/css" href="assets/css/fonts.css" rel="stylesheet"/>
+    <link type="text/css" href="assets/css/global.css" rel="stylesheet"/>
+    <link type="text/css" href="assets/css/main.css" rel="stylesheet"/>
+	<link rel="stylesheet" href="assets/css/jquery.mCustomScrollbar.min.css">
+    <link type="text/css" href="assets/css/alpsim.css" rel="stylesheet"/>
+   <style>
+	@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    .btn, .simbtn, .hintbtn, .subbtn,.crossbtn{padding-top:14px;padding-bottom:10px;}
+	.fbtn p {padding-top:7px;padding-bottom:4px;}
+	.fbtn p.active{padding-top:7px; padding-bottom:4px;}
+	.sitemapbtn{  padding-top:11px; padding-bottom:8px; }
+	.crossbtn1{line-height:21px;}
+	.clsCrosRef span{line-height:0px;padding-top:4px;}
+	.line1{top:123px;}
+    .line3 {top: 39px;}
+    .centersitemapbtn1{top: 225px;}
+	.centersitemapbtn2{top: 298px !important;}
+    .rightsitemapbtn{bottom:24px;}
+    .clkheretocls{ padding-top:14px; padding-bottom:10px;}
+	.sim{ top:-18px;}
+	.dummySubbtn{top: 365px;}
+    }
+	</style>
+    
+    
+    
+    <script type="text/javascript" src="assets/js/jquery-1.11.0.min.js"></script>
+   
+    <script type="text/javascript" src="assets/js/jquery-ui.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.ui.touch-punch.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.mobile.custom.min.js"></script>
+	<script type="text/javascript" src="assets/js/hint.js" ></script>
+    <script type="text/javascript" src="assets/js/data.js" ></script>
+	<script type="text/javascript" src="assets/js/steps.js" ></script>
+    <script type="text/javascript" src="assets/js/mainpage.js" ></script>
+    <script type="text/javascript" src="assets/js/datarestore.js" ></script>
+    <script type="text/javascript" src="assets/js/folderindex.js" ></script>
+	 <script type="text/javascript" src="assets/js/enscroll-0.6.2.min.js" ></script>
+    <script type="text/javascript" src="assets/js/jquery.nicescroll.js" ></script>
+	<script type="text/javascript" src="assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
+	<script type="text/javascript" src="assets/js/jquery-swapsies.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.transform2d.js"></script>
+	<script type="text/javascript" src="assets/js/jspdf.min.js"></script>
+	<script type="text/javascript" src="assets/js/promise.min.js"></script>
+	<script type="text/javascript" src="assets/js/enscroll-0.6.2.min.js"></script>
+	
+	
+    <!-- main.css;data.js;mainpage.js -->
+</head>
+<body onLoad="initfun()">
+<div class="subPopUp"  style="width:1000px; height:528px; position:absolute;">
+
+</div>
+<div class="maincontainer">
+<audio id="audElem"></audio>
+<div class="cover" style="position:absolute; width:1300px; height:536px; left:-150px"></div>
+<div class="panelcover" style="position:absolute; width:1000px; height:456px; left:0px"></div>
+<!-- Header Start  -->
+<!--<div class="header">
+    <div class="headingtitle">
+        <div class="head2"></div>
+    </div>
+    <div class="logo"><span><img src="assets/images/logo.png"/></span></div>
+</div>-->
+<!-- Header End  -->
+
+<!-- Container Start  -->
+<div class="container">
+	
+   <!-- <img src="images/model.jpg" width="1000" alt="img" style="position:absolute; top:0px; left:0; opacity:0.05; display:none; "> -->
+    <div id="overview" class="subpage subpgpopup">
+     <div style=" position: absolute; left:230px; top: -52px; font-family: Lato-Semibold; font-size: 19pt;" >Job 4: Alphabetic Filing Rules 1-10</div>
+    	<div class="containersubhead" style="text-align:center;  font-size: 16pt;">Overview of Auric Systems, Inc.</div>
+        <div  style=" position: absolute; right: -38px; top: -62px;"><img src="assets/images/logo.png" class=""></div>
+        <div class="subcontainer scrollBar">
+        <p>Congratulations! You have been hired as the records manager for Auric Systems, Inc., a company that sells 3G and 4G cell phones and broadband internet access to individuals, companies, and government agencies.<br><br> As you can see from the organization chart below, you work in the Chicago office and report to the president of the company, Terri Williams. There are two vice presidents: Glen Norris, who is in charge of the Customer Service Division, and Pat Johnson, who is in charge of the Broadband Communications Division. Auric Systems, Inc.
+		uses a combination of paper and computerized records.</p>
+		<div class="chartImg"><img src="assets/images/chart.png" alt="One image in this overview shows the Auric Systems logo. Another image shows an Auric Systems organization chart, with Terri Williams as President. Three people are shown as reporting to Terri Williams: Glen Norris, who is Vice President of the Customer Service Division; Pat Johnson, who is Vice President of the Broadband Communications Division; and YOU as Records Manager."></div>
+        </div>
+        	<!--<div class="startAud1 audPause1" ></div> 
+            <div class="startAud1 replyicon1"></div>-->
+    </div>
+	
+	 
+    <div id="introduction" class="subpage subpgpopup">
+           <div style=" position: absolute; left:230px; top: -52px; font-family: Lato-Semibold; font-size: 19pt;" >Job 4: Alphabetic Filing Rules 1-10</div>
+    	<div class="containersubhead" style="text-align:center; margin-right: 34px;  font-size: 16pt;">Overview of Jobs 1-4 </div>
+         <div  style=" position: absolute; right: -38px; top: -62px;"><img src="assets/images/logo.png" class=""></div>
+        <div class="subcontainer scrollBar">
+        <p>Auric Systems, Inc. maintains a customer information database for our cell phone users, as well as a correspondence file for paper documents. </p>
+<p>As records manager for Auric Systems, Inc., your duties include filing in alphabetic order name cards for the cell phone customers. In the first four jobs of this simulation, you will apply the alphabetic indexing rules 1-10, using cards bearing the names and addresses of cell phone customers.</p>
+<p>Applying the alphabetic indexing rules to cards requires attention to detail and following correct procedures. The latter is accomplished with the aid of a set of uniform indexing rules. The rules are available for your review by clicking the "Rules" tab at the bottom of your screen. You will gradually commit the rules to memory as you work with them.</p><p>Instructions for each job include a statement concerning the nature of work to be done and <br>step-by-step procedures to be followed. Giving careful attention to detail and systematically following the directions step by step will simplify your work.</p><p>After you have completed each job, check your work carefully. When you have completed an assignment requiring the alphabetic rearrangement of a group of names, be prepared to explain to your instructor the order of your arrangement.</p>
+        </div>
+            <!--<div class="startAud1 audPause1" ></div> 
+            <div class="startAud1 replyicon1"></div>-->
+    </div>
+	
+	<div id="directionsforjobs" class="subpage subpgpopup subpageAlign">
+		  <div style=" position: absolute; left:230px; top: -52px; font-family: Lato-Semibold; font-size: 19pt;" >Job 4: Alphabetic Filing Rules 1-10</div>
+        <div  style=" position: absolute; right: -38px; top: -62px;"><img src="assets/images/logo.png" class=""></div>
+		<div class="containersubhead" style="text-align:center; margin-left: -42px; font-size: 16pt;">Directions for Job 4</div>
+        <div class="subcontainer" style="margin-top: 15px">
+        <p style="margin-left: 45px;"> In this job, you will be filing in alphabetic and numeric order customer cards for the Broadband Communications Division of Auric Systems, Inc., by applying alphabetic filing Rules 1-10 to a series of 54 cards. For each card, you will:</p>
+		<ul class="listAlign">
+        <li>Apply proper indexing and coding.</li>
+        <li>Identify and complete necessary cross references.</li>
+        <li>Sort and file cards in the correct order.</li>
+		</ul>
+        <p style="margin-left: 45px;">A video demonstration will help you get started.</p>
+        <div class="btn videoDemobtn" name="videowalkthrough" >VIDEO WALKTHROUGH OF JOB 4</div>
+		<div class="btn alpentersimbtn" name="alphabeticSimulation" >START JOB 4</div>
+		
+        </div>
+           <!-- <div class="startAud1 audPause1" ></div> 
+            <div class="startAud1 replyicon1"></div>-->
+    </div>
+	
+<div id="help" class="subpage subpgpopup ">
+   <div style="position: absolute; left:370px; top: -52px; font-family: Lato-Semibold; font-size: 19pt; text-align:center;" >Help</div>
+        <div  style=" position: absolute; right: -38px; top: -62px;"><img src="assets/images/logo.png" class=""></div>
+		<div class="containersubhead" style="text-align:center; margin-left: -42px; margin-top: 30px; font-size: 16pt;"></div>
+    	<!--<div class="containerheader" style="text-align:center;">Records Management Simulation</div>
+        <div  style=" position: absolute; right: -38px; top: -62px;"><img src="assets/images/logo.png" class=""></div>
+    	<div class="containersubhead" style="text-align:center;">Help</div>-->
+        <div class="subcontainer scrollBar">
+        <h3 style="margin-top:2px;">Moving records within and between folders</h3>
+        <ul><li>To move a record within a folder, click and drag anywhere on the white area of the records.</li>
+        <li>To move a record back to the filing screen, click the blue triangle at the bottom corner of the record.</li>
+        <li>To move a record to a different folder, clicking the blue triangle at the bottom corner of the record will bring it back to the Filing screen from which it can be dragged to any desired folder.</li>
+        <li>To view a larger version of a record, single click the record; to close the zoom, <br>click the "X" at the top right corner of the zoomed screen.
+        </li></ul>
+        <h3>How to Navigate</h3>
+        <p>To watch the "How to Navigate" video, <span class="clkLink" name="demonstration" >click here</span></p>
+        <h3>Video Walkthrough of Job 4</h3>
+        <p>To watch the video walkthrough of Job 4,  <span class="clkLink" name="videowalkthrough" >click here</span></p>
+        <h3>Site Map</h3>
+        <p>Click the "Site Map" tab at the bottom of the screen to view and access the different screens within this job.</p>
+        <h3>Filing Rules</h3>
+        <p>Click the "Rules" tab at the bottom of your screen to view the Alphabetic Indexing Rules <br>1-10, Cross-Referencing Rules, and instructions for filing subjects within an alphabetic arrangement.</p>
+        <h3>Exit</h3>
+        <p>Click the "Exit" tab at the bottom of the screen to leave this job at any time. When you return, <br>the simulation will remember where you left off and return you to your place.</p>
+        <h3>For More Help</h3>
+        <p>If you are having trouble understanding the content of this job, please check with your instructor.<br><br>If you are having technical problems with the simulation, please contact Cengage Learning technical support:         <a href="http://support.cengage.com/" target="_blank">http://support.cengage.com/</a></p>
+        
+        </div>
+    </div>
+    
+        <div id="information" class="subpage subpgpopup">
+    	<div class="containersubhead" style="text-align:center;">Information</div>
+        <div class="subcontainer">
+        <p id="infocontent" ></p>
+        </div>
+    </div>
+    
+    <div id="sorting" class="subpage subpgpopup">
+    	<div class="containerheader" style="text-align:center;margin-top: 33px; margin-right: 39px;">Sorting</div>
+        <div class="subcontainer ">
+        <div>
+        <p>Place each of the cards into the correct alphabetical or numerical sequence by dragging and dropping them into the correct order from left to right. To move a card into a different letter, drag and drop the card to the correct letter. You may also move to a different letter file, by clicking on the letter.</p>
+        </div>
+        </div>
+       <!--<div class="startAud1 audPause1" ></div> 
+        <div class="startAud1 replyicon1"></div>-->
+    </div>
+    
+      <div id="coding" class="subpage subpgpopup">
+    	<div class="containerheader" style="text-align:center;margin-top: 33px; margin-right: 39px;">Coding</div>
+        <div class="subcontainer ">
+        <div>
+            <p>Code: Step 1: Separate the filing segment into units by inserting a diagonal slash (/) between the units. <br/>To remove a slash that has already been placed, click on the slash.</p>
+           <p>Code: Step 2(Units): Indicate the primary unit (key unit) by clicking on it to underline it. <br/> Then, click on the remaining units in sequence to place the correct number above each identified unit.</p>
+           <p>Cross-reference: Determine what should be placed on the cross-reference card by typing in the correct information. <br/>After you have filed the cross-reference card(s), you will be able to file the main card.</p>	
+        </div>
+        </div>
+        <!--<div class="startAud1 audPause1" ></div> 
+        <div class="startAud1 replyicon1"></div>-->
+    </div>
+	
+    <div id="siteresultpage" class="subpage subpgpopup" >
+    	 <div class="containerheader" style="text-align:center;margin-top: -58px;">Job 4: Alphabetic Filing Rules 1-10</div>
+		<div class="subcontainer">
+		 <div class="resultpg">
+	     <div class="resultpgcontent">
+		       <h1 style="display:none">Congratulations!!</h1>
+		       <p>You have completed Job 4.</p>
+		    </div>
+		 <div id="" class="scoreDetails"><b>Your Score is: <span>XX%</span></b></div>
+		 <div id="" class="timeDetails">You took <span>hrs:mm:ss</span> to complete this activity.</div>
+         
+		<div class="btn chkans"   style="cursor:default;"  name="siteresultpage" >CHECK ANSWERS</div>
+		<div class="btn clkheretocls"  style="cursor:default;"  name="siteresultpage" >CLICK HERE TO CLOSE</div>
+	   </div>
+	   </div>
+     </div>
+     
+    <div id="resultpage" class="subpage subpgpopup" >
+    	 <div class="containerheader" style="text-align:center;margin-top: -50px;">Job 4: Alphabetic Filing Rules 1-10</div>
+           <div style=" position: absolute; right: -38px; top: -58px;"><img src="assets/images/logo.png" class=""></div>    
+		<div class="subcontainer">
+		 <div class="resultpg">
+	     <div class="resultpgcontent">
+		       <h1 style="display:none">Congratulations!!</h1>
+		       <p><br>You have completed Job 4: Alphabetic Filing Rules 1-10</p>
+		    </div>
+		 <div id="" class="scoreDetails"><b>Your Score is: <span>XX%</span></b></div>
+		 <div id="" class="timeDetails">You took <span>hrs:mm:ss</span> to complete this activity.</div>
+		<div class="btn chkans" name="reviewAnswer" >CHECK ANSWERS</div>
+		<div class="clkheretocls" name="resultpage" >CLICK HERE TO CLOSE</div>
+	   </div>
+	   </div>
+     </div>
+     
+	  <div id="submitconfirmation"  style="display:none;" >
+    	<!--<div class="containerheader" style="text-align:center;">Records Management Simulation</div>-->
+		 <div class="confirmsubmit">
+		 <h2 style="text-align:center;margin-top: 0px;">Confirm Submission</h2>
+		 <p style="text-align:center;margin-top: 0px;">To submit your results, press the Submit button. To review or modify your answers, press the Review Answers button (recommended).<br>Please note, you will NOT be able to edit your answers once you press the "Submit" button.</p>
+		<div id="rivewans" class="btn rivewans" name="closeparent" >REVIEW ANSWERS</div>
+		<div class="btn cnfmsubmit" name="resultpage"  >SUBMIT</div>
+      </div>
+     </div> 
+
+<div id="filingRules" class="subpage subpgpopup" >
+    <div class="containerheader" style="text-align:center;margin-top: -58px; font-size: 19pt;">Alphabetic Indexing & Cross Referencing Rules</div>
+    <div  style=" position: absolute; right: -38px; top: -62px;"><img src="assets/images/logo.png" class=""></div>
+	 <div class="subcontainer">
+      <!--<div class="containerheader" style="text-align:center;">Records Management Simulation</div>-->
+    	  <!--<div class="containersubhead" style="text-align:center;">Alphabetic Indexing & Cross Reference Rules</div>-->
+		     <div class="contentbox2">
+               <div class="rulestitle scrollBar">  
+                <div id="fillingruleleft"  class="rules" name="rule1A" style="margin-top:-13px;" ><h3>Alphabetic Indexing Rules</h3></div>
+                <div class="rules" name="rule1A" style="margin-top:-10px;">Rule 1: Indexing Order of Units</div>
+				<ul style="margin-top:0px; margin-bottom:0px; list-style:none;">
+				<li class="rules" name="rule1A" >A. Personal Names</li>
+				<li class="rules" name="rule1B" >B. Business Names</li>
+				</ul>
+				<br>
+                <div class="rules" name="rule2"> Rule 2: Minor Words and Symbols &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in Business Names</div>
+				<br>
+                <div class="rules" name="rule3"> Rule 3: Punctuation and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Posessives</div>
+				<br>
+                <div class="rules rule4" name="rule4A"> Rule 4: Single Letters and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abbreviations</div>
+				<ul style="margin-top:0px;margin-bottom:0px;list-style:none;">
+				<li class="rules" name="rule4A" >A. Personal Names</li>
+				<li class="rules" name="rule4B" >B. Business Names</li>
+               </ul>
+			   <br>
+                <div class="rules rule5" name="rule5A"> Rule 5: Titles and Suffixes</div>
+                <ul style="margin-top:0px;margin-bottom:0px;list-style:none;">
+				<li class="rules" name="rule5A" >A. Personal Names</li>
+				<li class="rules" name="rule5B" >B. Business Names</li>
+				</ul>
+				<br>
+                <div class="rules" name="rule6"> Rule 6: Prefixes-Articles and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Particles</div>
+				<br>
+                <div class="rules" name="rule7"> Rule 7: Numbers in Business &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Names</div>
+				<br>
+                <div class="rules" name="rule8"> Rule 8: Organizations and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Institutions</div><br>
+                <div class="rules" name="rule9"> Rule 9: Identical Names</div>   <br>
+                <div class="rules rule10" name="rule10A">Rule 10: Government Names</div>  
+                  <ul style="margin-top:0px;margin-bottom:0px;list-style:none;">
+				    <li class="rules" name="rule10A" ></li>
+				    <li class="rules" name="rule10B" >A. Local and Regional &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Government Names</li>
+				    <li class="rules" name="rule10C" >B. State Government Names</li>
+				    <li class="rules" name="rule10D" >C. Federal Government &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Names</li>
+				    <li class="rules" name="rule10E" >D. Foreign Government &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Names</li>
+                   </ul> 
+                     
+                <div id="crossruleleft"  style="margin-top:20px; margin-bottom:0px;" class="rules rule11" name="rule11" ><h3>Cross Reference Rules</h3></div>     
+                <div class="rules rule11" name="rule11A" style="margin-top:-10px;" >Rule 1: Personal Names</div>
+				    <ul style="margin-top:0px;margin-bottom:0px;list-style:none;">
+				    <li class="rules" name="rule11B" >A. Unusual (Easily Confused) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Names</li>
+				    <li class="rules" name="rule11C" >B. Hyphenated Surnames</li>
+				    <li class="rules" name="rule11D" >C. Alternate Names</li>
+				    <li class="rules" name="rule11E" >D. Similar Names</li>
+				    </ul><br>
+                <div class="rules rule12" name="rule12">Rule 2: Business Names</div>
+				    <ul style="margin-top:0px;margin-bottom:0px;list-style:none;">
+				    <li class="rules" name="rule12A" >A. Compound Names</li>
+				    <li class="rules" name="rule12B" >B. Abbreviations and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Acronyms</li>
+				    <li class="rules" name="rule12C" >C. Popular and Coined &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Names</li>
+				    <li class="rules" name="rule12D" >D. Hyphenated Names</li>
+				    <li class="rules" name="rule12E" >E. Divisions and Subsidiaries</li>
+				    <li class="rules" name="rule12F" >F. Changed Names</li>
+				    <li class="rules" name="rule12G" >G. Similar Names</li>
+				    <li class="rules" name="rule12H" >H. Foreign Business Names</li>
+				    <li class="rules" name="rule12I" >I. &nbsp;&nbsp;Foreign Government &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Names</li>
+                    </ul>  
+				  <div class="rules" name="rule13" style="margin-top:20px; margin-bottom:0px;"><h3>Subjects Within an Alphabetic Arrangement</h3></div>
+               </div>
+              <div class="rulesdescrip">
+              <div class="rulescontainer"></div>
+			  <div class="nextpage"><img  src="assets/images/subarw_l.png" height="25" alt="" title=""></div>
+			 <div class="previouspage"><img  src="assets/images/subarw_r.png" height="25" alt="" title=""></div>
+             </div>
+			
+	     </div>
+		 </div>
+	  
+	 
+	 
+	 </div>
+	
+	  
+	 <div id="demonstration" class="subpage" >
+     <div class="containerheader" style="text-align:center; margin-top: 10px; font-size: 19pt;">Job 4: Alphabetic Filing Rules 1-10<br><span  style="font-size:20px;">Video: How to Navigate</span></div>
+      <div class="logo" style="right: 25px; top: 10px;"><img src="assets/images/logo.png" class=""></div>
+	 <div class="subcontainer">
+		<div class="videocontentbox"  >
+         <iframe id="iframevideoid" class="iframevideo" src="playvideo/navigationvideo.html" scrolling="no" frameBorder="0" >Browser not compatible.</iframe>
+        </div>
+		 </div>
+	  </div>
+     
+      <div id="videowalkthrough" class="subpage" >
+     <div class="containerheader" style="text-align:center; margin-top: 10px; font-size: 19pt;">Job 4: Alphabetic Filing Rules 1-10<br><span class="videoWalkthrough" style="font-size:20px;">Video Walkthrough of Job 4</span></div>
+      <div class="logo" style="right: 25px; top: 10px;"><img src="assets/images/logo.png" class=""></div>
+	 <div class="subcontainer">
+		<div class="videocontentbox"  >
+         <iframe id="iframevideoid1" class="iframevideo" src="playvideo/walkthroughvideo.html" scrolling="no" frameBorder="0" >Browser not compatible.</iframe>
+        </div>
+		 </div>
+	  </div>
+	 
+	<div id="sitemap" class="subpage subpgpopup" >
+    	<!--<div class="containerheader" style="text-align:center;">Records Management Simulation</div>
+         <div  style=" position: absolute; right: -38px; top: -62px;"><img src="assets/images/logo.png" class=""></div>
+    	 <div class="containersubhead" style="text-align:center;">Site Map</div>-->
+		  <div style="position: absolute; left:370px; top: -52px; font-family: Lato-Semibold; font-size: 19pt; text-align:center;" >Site Map</div>
+        <div  style=" position: absolute; right: -38px; top: -62px;"><img src="assets/images/logo.png" class=""></div>
+         <div class="subcontainer"> 
+		 <div class="centersitemapbtn"> 
+         <div class="sitemapbtn" name="mainpage" style="font-size: 18px; font-family:Lato-Black;">MAIN JOB SCREEN</div>
+		 <ul style="margin-top:-4px;  margin-left: -12px;"  ><li  class="sitemapbtn indentsitemap" name="demonstration"> VIDEO: HOW TO NAVIGATE</li>
+         <li  class="sitemapbtn indentsitemap" name="overview" >OVERVIEW OF AURIC SYSTEMS</li>
+         <li  class="sitemapbtn indentsitemap" name="introduction" >OVERVIEW OF JOBS 1-4</li>
+         <li  class="sitemapbtn indentsitemap" name="directionsforjobs" >DIRECTIONS FOR JOB 4</li></ul></div>
+		 <div class="centersitemapbtn1" >
+		 <!-- <div class="sitemapbtn"  name="demonstration" style="font-size: 15px;" >VIDEO WALKTHROUGH OF JOB 2</div>
+         <div class="sitemapbtn"  name="alphabeticSimulation" style="font-size: 15px;">START JOB 2</div>-->
+          <ul style="margin-top:5px;  margin-left: -8px;" >
+          <li  class="sitemapbtn indentsitemap" name="videowalkthrough" style="list-style-type: disc;" >VIDEO WALKTHROUGH OF JOB 4</li>
+          <li  class="sitemapbtn indentsitemap" name="alphabeticSimulation"  style="list-style-type: disc;" >START JOB 4</li>
+         </ul>
+		 </div> 
+          <div class="sitemapbtn indentsitemap centersitemapbtn2" name="alphabeticSimulation"  style="left:210px; top:290px;" >JOB 4 MAIN TASK SCREEN (CODE)</div></div>
+         
+   </div>
+
+	<div id="alphabeticFilingRules" class="subpage subpgpopup">
+    	<div class="containersubhead" style="text-align:center; margin-right: 32px;">Job 4: Alphabetic Filing</div>
+         <div class="subcontainer" style="padding:2%">
+          <!-- <div class="contentboxtitle">Directions for Cards 1-18</div>-->
+           <p class="indent" >Now that you have reviewed the video, we are ready to begin. </p>
+           <p class="indent" >In this job, you will apply alphabetical filing Rules 1-10. By the end of this simulation, you &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;will have shown how to:</p>
+               <ul class="listAlign" >
+               <li>Properly code all units for personal and business names. </li>
+               <li>Identify and create cross reference cards as needed.</li>
+               <li>Demonstrate proper sorting and filing. </li>
+               </ul> 
+			<p class="indent" >To begin working, click the "Enter Simulation" button.</p>
+			<div class="btn alpentersimbtn" name="alphabeticSimulation" >ENTER SIMULATION</div>
+         </div>
+    </div>
+	<div id="dummyDiv"></div>
+    <div id="closePopup" style=" display:none;"><img src="assets/images/popup_closebtn.png" title="Close"></div>
+	<div id="alphabeticSimulation"   style="display:none;">
+	   <div class="containershead">
+    	<div class="containersubhead" style="text-align:center;">Job 4: Alphabetic Filing Rules 1-10 (Code)</div>
+        <p class="tcent scrollBar">Review the 54 index cards. Choose an action and then edit each card as needed.<br/> Once all actions have been completed, file each card by dragging the card to the correct folder.</p>
+          <div class="logo"><img src="assets/images/logo.png" class=""></div>
+       </div>
+                <div id="toolsarea" class="toolsarea" >
+				<div id="block1" class= "block"></div>
+				<div id="block2" class= "block"></div>
+                  <div class="leftarraw">
+                 	 
+                  </div>
+                  <div class="dragareaall">
+					<span class="dragarea">
+                   	 
+                    </span>
+                  </div>
+				<div class="dragareaallAnim">
+					<span class="dragareaAnim">
+                   	 
+                    </span>
+                  </div>				  
+                  <div class="rightarraw">
+                    
+                  </div>
+                 
+               </div>
+               <div class="zoompopup" style="background:rgba(0,0,0,0.2); width:1000px; height:555px; position:absolute; top:0; left:0; z-index:100; display:none;"></div>
+			   	
+                 <div class="parentCardPanel ">	
+                  <div id="totalCards"></div>
+					<div class="close"><img src="assets/images/hint_closebtn.png" ></div>
+					<div id="alphabet"></div>	
+					<!--<div id="swapSort">
+									<div id="swapper" class="swpSrt">Swap</div>
+									<div id="sorter" class="swpSrt">Sort</div>
+					</div>-->
+               <div class="trimSpace">
+			   <div class="cardPanel">	</div>
+			    </div>
+			   
+			   </div>       
+			      <div id="cradClone"></div>
+         
+                    
+       <div class="simworkcontainer">
+       <div class="simworkAreaOff"></div>
+        <p class="choseactn">CARD X OF Y </p>
+       <span class="crossbtnBadge" style="position:absolute; left:140px; top:307px; height:18px; width: 185px;" ></span>
+        <div class="simworkarea" style="line-height:1.976em">
+        	<p id="rollNum" style="padding-top:0px; margin-top:0px;display:none">1</p>
+			<!--<div class="nameing forPushDup" style="padding-top:0px;">
+                <span>Richard</span>
+                <span>&nbsp;</span>
+                <span>Anderson</span>
+            </div>	-->
+           	<div class="nameing forPush" style="padding-top:0px; padding-bottom:1px">
+                <!--<span>Richard</span>
+                <span>&nbsp;</span>
+                <span>Anderson</span>-->
+            </div>
+            <ul style="list-style: none; padding:0; margin:0;">
+            	<li></li>
+                <li></li>
+            </ul>
+            <p class="forPushPara" style="margin-top:2px"></p>       
+	       
+        </div>
+			<div class="crossbtnlist" style="display:none;"  >  
+            <div class="crossbtn1">1</div>
+            <div class="crossbtn1">2</div>
+            <div class="crossbtn1">3</div>
+			<div class="crossbtn1">4</div>
+            <div class="crossbtn1">5</div>          
+			</div>
+		<div class="crossRefOff">
+		</div>	
+         <div class="crossreference">
+        
+           	<div class="crossrefnameing">
+              <div class="form">
+				<label class="keyUnitlabel"  >Key Unit:</label>
+		        <input class="cross_unit keyUnitInput" name="" size="30" type="text" autofocus spellcheck="false">
+				<label class="unittwolabel"  >Unit 2:</label>
+				<input class="cross_unit unittwoInput"  name="" size="30" type="text" spellcheck="false">
+				<label class="unitthreelabel"  >Unit 3:</label>
+			    <input class="cross_unit unitthreeInput"  name="" size="30" type="text"  spellcheck="false">
+				<label class="unitfourlabel"   >Unit 4:</label>
+				<input class="cross_unit unitfourInput"  name="" size="30" type="text"  spellcheck="false">
+                <label class="unitfourlabel"   >Unit 5:</label>
+				<input class="cross_unit unitfiveInput"  name="" size="30" type="text"  spellcheck="false">
+                <label class="unitfourlabel"   >Unit 6:</label>
+				<input class="cross_unit unitsixInput"  name="" size="30" type="text"  spellcheck="false">
+                <label class="unitfourlabel"   >Unit 7:</label>
+				<input class="cross_unit unitsevenInput"  name="" size="30" type="text"  spellcheck="false">
+                <label class="unitfourlabel"   >Unit 8:</label>
+				<input class="cross_unit uniteightInput"  name="" size="30" type="text"  spellcheck="false">
+				<label class="seelabel" style="font-size:10px;"><span style="margin-left: -18px;" >SEE</span> or <br>SEE ALSO:</label>
+				<input class="cross_unit seeInput"  name="" size="30" type="text"  spellcheck="false">
+                <div id="draghidden"></div>
+                
+			  </div>
+            </div>
+           <div class="clsCrosRef"><span>DELETE</span></div>
+        </div>
+			<div class="next"><img class="nxtbtn"   title="Next" src="assets/images/subarw_l.png" ></div>
+            <div class="prev"><img class="prvsbtn"  title="Previous" src="assets/images/subarw_r.png" ></div>
+			
+			<!--<div class="nextCros crosref"><img class="nxtbtn"   title="Previous" src="assets/images/subarw_l.png" ></div>
+            <div class="prevCros crosref"><img class="prvsbtn"  title="next" src="assets/images/subarw_r.png" ></div>-->
+           
+       </div>
+     <!-- Hint Start-->	   
+	   <div id="tooltip" style="display:none;">
+         <div class="triangle-isosceles" >
+            <div >
+               <p style="margin-bottom:10px;" >Name Transposition all that required</p>
+               <a href="javascript:void(0)" id="cnfmhntpop" style="color:">See detailed example</a>
+            </div>
+            <div id="hntclse"><img src="assets/images/hint_closebtn.png" ></div>
+          </div>
+       </div> 
+       
+         <div id="tooltip1" style="display:none;">
+         <div class="infoPopup" >
+            <div>
+               <p id="infocontent"></p>
+            </div>
+            <div id="infoclse">X</div>
+          </div>
+       </div> 
+		
+		
+		<div id="cnfmhnt"  style="display:none;">
+		   <div class="cnfmhntcnt">
+		         <h3>Caution!</h3>
+		         <p>A percentage point will be deducted from your final score each time you view a detailed example. Would you like to proceed?</p>
+				 <label><input type='checkbox' onchange='dialogboxChange(this);'>Do not show this message again</label><br>
+				 <a href="javascript:void(0)" id="hntclseagr" class="agree" >Yes, show the example</a>
+				 <a href="javascript:void(0)" id="hntclsedis" class="disagree">No, return to activity</a>
+		         <div id="hntclsecfm"><img src="assets/images/popup_closebtn.png" ></div>
+		   </div>
+		</div>
+	   
+		
+    <!-- Hint End-->	
+	
+	
+
+   
+	<!-- Final page End-->
+    <div class="dummySubbtn"></div>
+	<div class="offSteps"><div style="position:absolute;width:80%; height:40px; top: 321px; left: 2px; background:#f9f5aa; opacity:0.5;"> </div></div>
+        <div class="simbtncontiner">
+            <p class="choseactnbtn">CHOOSE ACTION</p>
+            <div class="simbtn" name="Code" >CODE: STEP 1</div>
+            <div class="simbtn" name="uIdentification"  >CODE: STEP 2 (UNITS)</div>
+           <!-- <div class="simbtn" name="leveling"  >CODE: STEP 2 (LEVELING)</div>-->
+          <div class="crossbtn" name="crossreference" >ADD CROSS-REFERENCE</div>
+		   <!-- <div id="hintbtnid" class="hintbtn" name="" >HINT</div>-->
+            <div class="subbtn" name="submitconfirmation" >FINISH & SUBMIT</div>
+			  
+            
+        </div>
+		
+    </div>
+
+  
+
+	<!-- Final page Start-->
+	<div  id="reviewAnswer" class="subpage subpgpopup" style="display:none;">
+	    <div class="detReviewScore">Score: <span></span> </div>
+	    <div class="detReviewTime" >Elapsed Time: <span></span>  </div>
+	    <div class="printBtn" title="Print"></div>
+    	<div class="containerheader" style="text-align:center;margin-top: -50px;">Job 4: Alphabetic Filing Rules</div>   
+        <div style=" position: absolute; right: -38px; top: -58px;"><img src="assets/images/logo.png" class=""></div>     
+	
+	 <div id="reviewAns" >
+		<div id="ctr0" >		 
+			<div class="tabDiv arrng1">Your Choice</div>		
+			<div class="tabDiv arrng2">Correct Answer</div>		
+			<div class="tabDiv arrng3">Coding</div>
+			<div class="tabDiv arrng4">Order Result</div>			
+		  </div>
+		  <div id="ctr" class="scrollBar1" >		 
+			<div class="tabDiv arrng1 userPanel"></div>		
+			<div class="tabDiv arrng2 correctPanel"></div>		
+			<div class="tabDiv arrng3 codeResult"></div>
+			<div class="tabDiv arrng4 orderResult"></div>			
+		  </div>	
+	</div>
+   </div>
+ <!-- <div class="audiocc" style="position:absolute; background:rgba(0,0,0,0.9); color:#fff; left:2px; right:0px; margin:auto; width:821px; height:30px;padding:10px; padding-bottom:15px; text-align:center;   bottom:100px; z-index:1000; display:none;"></div>-->
+  
+<div id="startpopup"  style="z-index:43; display:none;">
+   <div class="startmid">
+       
+             	<div style="position: absolute; width: 100%;">
+              	<div id="startbtn" name="startbtn" >Start <br>Record Simulation</div>
+              
+      </div>
+ </div>
+  </div>
+  </div>
+<!-- Container End  -->
+
+
+
+
+
+<!-- Footer Start  -->
+
+   <div class="footer">
+            <div class="ftrinner">
+             <ul id="ftabs" >
+            <li class="fbtn" name="sitemap" title="Pages & Navigation" ><span class="btn1"><p>SITE MAP</p></span></li>
+            <li class="fbtn" name="help" title="More Information" ><span class="btn2"><p>HELP</p></span></li>
+			<li class="fbtn" name="exit" title="Save & Close" ><span class="btn3"><p>EXIT</p></span></li>
+            <li class="fbtn" name="filingRules" title="Link to Rules" ><span class="btn4"><p>RULES</p></span></li>
+            <li class="" name="" id="offclick" style="cursor:default;"><span class="btn5"></span></li>
+            </ul>
+			   <div id="dummySitemap"></div>
+               <div id="dummyDiv1"></div>
+			 <div class="ftrinner1">
+			   <div class="startAud audPause" title="Play/Pause"></div>
+			  <!-- <div id="mutIcon" class="muteIcon" ></div>
+               <div class="ccicon ccIcon" title="Closed Caption"></div>-->
+               <div name="information"  id="informationIcon" class="informationIcon" title="Information"></div>
+			   <div class="replyicon startAud" src="assets/images/replay_audio.png"  title="Replay">  </div>
+				<!--<div id="audPause" class="ccIcon" ></div>	-->
+             </div>
+             <div class="ftrinner3" style="display:none;">
+			   <div class="startAud3" title="Play/Pause"></div>
+               <!--<div class="ccIcon3" title="Closed Caption"></div>-->
+			   <div class="replyicon3" src="assets/images/replay_audio.png"  title="Replay Audio">  </div>
+             </div>
+             
+            </div>
+             <div class="ftrinner2">
+             <div id="subpgclose" class="brandIcon" ><img src="assets/images/rm_logo.png" alt="" title="Click here to return to the Job 4 home page" ></div>
+             <div class="head1" >Records Management Simulation</div>
+             <div id="progressBar" class="default"><div><span class="pcenter" ></span></div></div>
+             </div>
+      <div class="zoompopup" style="background:rgba(0,0,0,0.2); width:1000px; height:70px; position:absolute; top:0; left:0; z-index:100; display:none;"></div> 
+        
+    </div>
+<!-- Footer End  -->
+
+<!-- Main Page Start-->
+<div class="mainpage" id='mainpage' style="display:block;">
+	<div class="insideContent">
+	<p class="mainhead">Records Management Simulation</p>
+	<p class="maintitle">Job 4: Alphabetic Filing Rules</p>
+    <div class="mainbtncontainer">
+	     <div class="btn mainbtn" name="demonstration" >VIDEO: HOW TO NAVIGATE</div>
+ 		 <div class="btn mainbtn" name="overview" >OVERVIEW OF AURIC SYSTEMS, INC.</div>
+         <div class="btn mainbtn" name="introduction" >OVERVIEW OF JOBS 1-4</div>
+         <div class="btn mainbtn" name="directionsforjobs" >DIRECTIONS FOR JOB 4</div>
+    </div>
+    <div class="mainlogo">
+    <img class="mainimglogo" src="assets/images/mainpageloga.png" />
+    </div>
+    
+    <div class="mainbranding">
+        <img class="" src="assets/images/logo.png" />
+    </div>	
+	</div>
+	
+</div>
+
+
+
+<!-- Main Page End-->
+
+</div>
+
+<script>
+
+// When Click Exit send data to LTI
+
+var exitSendDataToLTI = function(){
+	
+console.log('on exit'+JSON.stringify(recordIndex))
+    errorobj = { 'score': recordSimScore, 'timer': recordSimTimer, 'job1':dataRecdJob,'card': dataRecd, 'folderIndexing': recordIndex, 'recdArr':uniqArr, 'timer': recordSimTimer, 'exit': 'true','extTimer': takentime};
+	console.log('on exit'+JSON.stringify(errorobj))
+	//console.log(errorobj.folderIndexing)
+	//console.log(errorobj.folderIndexing)
+	//console.log(errorobj)
+	//alert('exit called1');
+	//window.parent.sendToLTI('');
+	console.log('Exit called');
+	window.parent.ExitSendDataToLTI(errorobj);
+	
+	// window.parent.ReturnToBack()
+	 
+}
+
+
+
+// When Submit Send Erroe Report to LTI
+    var sentDataReportOtLTI = function () {
+		//var prejobfoldearray = [];
+		var curjobfoldearray = [];
+		//var jb1_Xref = [];
+		var jb2_Xref = [];
+	/*	for(var i = 0; i<dataRecdJob.length; i++)
+		{
+			prejobfoldearray.push(dataRecdJob[i].folderLocation);
+			jb1_Xref.push(dataRecdJob[i].crossUnit);
+			
+		}*/
+	
+		for(var i = 0; i<dataRecd.length; i++)
+		{
+			curjobfoldearray.push(dataRecd[i].folderLocation);
+			jb2_Xref.push(dataRecd[i].crossUnit);			
+		}
+		
+	errorobj = { 'score': recordSimScore, 'timer': recordSimTimer, 'job1':dataRecdJob,'card': dataRecd, 'folderIndexing': recordIndex, 'recdArr':uniqArr, 'timer': recordSimTimer, 'exit': 'false', 'curjob':curjobfoldearray,    'curXref': jb2_Xref};
+	
+	 
+        window.parent.sendToLTI((errorobj.score/100).toFixed(2) , errorobj);
+		console.log(errorobj)
+    }
+
+    // When Submit call back to LTI	
+    var dataReportFromLTI = function (errorobj) {
+		
+		
+       if (errorobj != undefined)
+		{
+			//alert(window.parent.ViewMode);
+			
+			if (window.parent.ViewMode == "completed") {
+			
+				//console.log('end')
+				$('#resultpage').hide();
+				$('#alphabeticSimulation').hide();
+				ltirecive = true;
+				geterrorFromLTI(errorobj);
+				
+				/*	for(var i = 0; i<dataRecdJob.length; i++)
+					{
+						dataRecdJob[i].folderLocation = errorobj.prejob[i];
+						if(errorobj.prevJob[i] == null){errorobj.prevJob[i] = [];}
+						dataRecdJob[i].crossUnit = errorobj.prevJob[i];
+						
+					}*/
+				
+					for(var i = 0; i<dataRecd.length; i++)
+					{
+						dataRecd[i].folderLocation = errorobj.curjob[i];
+						
+						//if(errorobj.curXref[i] == null){errorobj.curXref[i] = [];}
+						dataRecd[i].crossUnit = errorobj.curXref[i];
+						
+						
+					}
+				
+                recordIndex = errorobj.folderIndexing;					
+				dataRecd = errorobj.card;
+
+				recordSimTimer = errorobj.timer;
+				recordSimScore = errorobj.score;
+			
+				//initfun();
+			}
+				  
+			else if (window.parent.ViewMode == "resume") {
+			
+                      //Here Resume code will go.
+						//console.log(errorobj.folderIndexing[0], length)
+						//console.log(errorobj.folderIndexing[0] == null)
+					  //console.log(errorobj.folderIndexing)
+						
+						exitobj = errorobj;
+					// console.log(JSON.stringify(exitobj))
+					  ltirecive = false;
+					  ltiexit = true;
+					  //ltiexit = false;
+					  //initfun();
+					  
+					  curVal = 2;
+					
+					 // console.log('Resume')
+            }
+        }
+		 //console.log(errorobj)
+		 
+    }
+
+//console.log(JSON.stringify(window.parent.GetInputData))
+
+	dataReportFromLTI(window.parent.GetInputData);
+
+    //} */
+	$( "img" ).click(function( event ) {
+     event.preventDefault();
+     });
+	 document.getElementById("offclick").onclick = function() {return false;};
+	
+</script>
+
+</body>
+</html>
+
